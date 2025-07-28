@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1283-Sq-ft-Multistorey-Apartment-FOR-Sale-Gachibowli-in-Hyderabad&id=4d423737333333323931",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1283-Sq-ft-Multistorey-Apartment-FOR-Sale-Gachibowli-in-Hyderabad&id=4d423737333333323931",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/21/Photo_h180_w240/77333291_8_PropertyImage1750432745640_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Gachibowli Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.443563",
+        "longitude": "78.3397746"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Tiranga Realty"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gachibowli",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

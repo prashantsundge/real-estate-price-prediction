@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2360-Sq-ft-Villa-FOR-Sale-Dundigal-in-Hyderabad&id=4d423830333136313439",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2360-Sq-ft-Villa-FOR-Sale-Dundigal-in-Hyderabad&id=4d423830333136313439",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2024/10/10/Project-Photo-6-Northscape-Hyderabad-5423979_811_1176_310_462.jpg",
+    "name": "3 BHK Villa for Sale in Dundigal, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.6206150860088",
+        "longitude": "78.4085952054499"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "K Siva"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dundigal",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1600-Sq-ft-Multistorey-Apartment-FOR-Sale-Jaibery-Colony-in-Hyderabad&id=4d423738353337393639",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1600-Sq-ft-Multistorey-Apartment-FOR-Sale-Jaibery-Colony-in-Hyderabad&id=4d423738353337393639",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/23/Photo_h180_w240/78537969_4_bhkbedroom1490x357_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Jaibery Colony, Komapally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5425945515091",
+        "longitude": "78.4822910638784"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Citylife Realty"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Jaibery Colony",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1359-Sq-ft-Multistorey-Apartment-FOR-Sale-Puppalaguda-in-Hyderabad&id=4d423830323731393735",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1359-Sq-ft-Multistorey-Apartment-FOR-Sale-Puppalaguda-in-Hyderabad&id=4d423830323731393735",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/08/Photo_h180_w240/80271975_16_PropertyImage1751975606012_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Puppalguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.342182159423828",
+        "longitude": "78.36300659179688"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "kiran"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Puppalaguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

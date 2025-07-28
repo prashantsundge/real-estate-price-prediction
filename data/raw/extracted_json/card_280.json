@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1310-Sq-ft-Multistorey-Apartment-FOR-Sale-Bagh-Amberpet-in-Hyderabad&id=4d423739373830343831",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1310-Sq-ft-Multistorey-Apartment-FOR-Sale-Bagh-Amberpet-in-Hyderabad&id=4d423739373830343831",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/20/Photo_h180_w240/79780481_6_PropertyImage1750421041310_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Bagh Amberpet Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.027833938598633",
+        "longitude": "77.78817749023438"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Sukanya"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bagh Amberpet",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

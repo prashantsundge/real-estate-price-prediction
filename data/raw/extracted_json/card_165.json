@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1585-Sq-ft-Multistorey-Apartment-FOR-Sale-Mokila-in-Hyderabad&id=4d423737353739373831",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1585-Sq-ft-Multistorey-Apartment-FOR-Sale-Mokila-in-Hyderabad&id=4d423737353739373831",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Feb/07/Photo_h180_w240/77579781_1_WhatsApp-Image-2025-02-06-at-10-25-28-AM_180_240.jpeg",
+    "name": "2 BHK Apartment for Sale in Mokila Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.50639",
+        "longitude": "78.35815"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Mandhada Swaroopreddy"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mokila",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

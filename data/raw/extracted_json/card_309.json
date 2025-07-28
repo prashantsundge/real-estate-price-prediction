@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1708-Sq-ft-Multistorey-Apartment-FOR-Sale-Chanda-Nagar-in-Hyderabad&id=4d423830343538383133",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1708-Sq-ft-Multistorey-Apartment-FOR-Sale-Chanda-Nagar-in-Hyderabad&id=4d423830343538383133",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/14/Photo_h180_w240/80458813_1_PropertyImage458-1130530801205_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Chanda Nagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.495741",
+        "longitude": "78.325436"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Imraan"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

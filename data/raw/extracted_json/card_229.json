@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1253-Sq-ft-Multistorey-Apartment-FOR-Sale-Tellapur-in-Hyderabad&id=4d423734393038313333",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1253-Sq-ft-Multistorey-Apartment-FOR-Sale-Tellapur-in-Hyderabad&id=4d423734393038313333",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Sep/15/Photo_h180_w240/74908133_3_PropertyImage55-793797994199146_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Tellapur, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4606196",
+        "longitude": "78.2751625"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "HariPriya"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tellapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

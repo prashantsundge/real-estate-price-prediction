@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2185-Sq-ft-Multistorey-Apartment-FOR-Sale-Yapral-in-Hyderabad&id=4d423731363237343239",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2185-Sq-ft-Multistorey-Apartment-FOR-Sale-Yapral-in-Hyderabad&id=4d423731363237343239",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2022/09/26/Project-Photo-1-GK-Rajs-Casa-Grande-Hyderabad-5325679_345_1366_310_462.jpg",
+    "name": "undefined",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.51501723",
+        "longitude": "78.54012287"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Organization",
+            "name": "GK RAJ CONSTRUCTIONS"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Yapral",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

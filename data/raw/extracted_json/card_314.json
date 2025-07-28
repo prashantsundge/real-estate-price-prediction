@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1370-Sq-ft-Multistorey-Apartment-FOR-Sale-Narsingi-in-Hyderabad&id=4d423738353331323535",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1370-Sq-ft-Multistorey-Apartment-FOR-Sale-Narsingi-in-Hyderabad&id=4d423738353331323535",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2023/06/09/Project-Photo-23-Rajapushpa-Provincia-Hyderabad-5256419_1200_1600_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in Narsingi, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.39538849415279",
+        "longitude": "78.35505192619372"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Rajesh Babu"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Narsingi",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

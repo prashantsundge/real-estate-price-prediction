@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1260-Sq-ft-Multistorey-Apartment-FOR-Sale-Pragathi-Nagar-in-Hyderabad&id=4d423830303335303035",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1260-Sq-ft-Multistorey-Apartment-FOR-Sale-Pragathi-Nagar-in-Hyderabad&id=4d423830303335303035",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/20/Photo_h180_w240/80035005_13_PropertyImage1750431246946_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Pragathi Nagar, Kukatpally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.539549",
+        "longitude": "78.40937"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Divya"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pragathi Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

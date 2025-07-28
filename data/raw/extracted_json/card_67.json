@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2014-Sq-ft-Multistorey-Apartment-FOR-Sale-Nizampet-in-Hyderabad&id=4d423738373836343633",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2014-Sq-ft-Multistorey-Apartment-FOR-Sale-Nizampet-in-Hyderabad&id=4d423738373836343633",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Apr/07/Photo_h180_w240/78786463_5_von8_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Nizampet Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.52340004",
+        "longitude": "78.37516538"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Ready Real Estate"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nizampet",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1296-Sq-ft-Multistorey-Apartment-FOR-Sale-Gachibowli-in-Hyderabad&id=4d423735353234393637",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1296-Sq-ft-Multistorey-Apartment-FOR-Sale-Gachibowli-in-Hyderabad&id=4d423735353234393637",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Oct/18/Photo_h180_w240/75524967_2_rojectPhoto11CandeurLakescapeHyderabad540204112001600_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Gachibowli Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4661387919325",
+        "longitude": "78.3574087383959"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Koka Infra"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gachibowli",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

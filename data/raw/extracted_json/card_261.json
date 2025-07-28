@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1350-Sq-ft-Multistorey-Apartment-FOR-Sale-Gopanapalli-in-Hyderabad&id=4d423739343631353431",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1350-Sq-ft-Multistorey-Apartment-FOR-Sale-Gopanapalli-in-Hyderabad&id=4d423739343631353431",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/May/16/Photo_h180_w240/79461541_1_PropertyImage478-54328800013235_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Gopanpalle Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4577581101491",
+        "longitude": "78.312128616532"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "SANTHOSH PORANDLA"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gopanapalli",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

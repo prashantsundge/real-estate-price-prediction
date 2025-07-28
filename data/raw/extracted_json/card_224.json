@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1750-Sq-ft-Multistorey-Apartment-FOR-Sale-Chanda-Nagar-in-Hyderabad&id=4d423735373939353039",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1750-Sq-ft-Multistorey-Apartment-FOR-Sale-Chanda-Nagar-in-Hyderabad&id=4d423735373939353039",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/07/Photo_h180_w240/75799509_1_PropertyImage1749299944330_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Chanda Nagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4900588",
+        "longitude": "78.3258354"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Punit Kapoor Punit Kapoor"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

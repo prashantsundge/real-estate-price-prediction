@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1350-Sq-ft-Multistorey-Apartment-FOR-Sale-Tellapur-in-Hyderabad&id=4d423737373034343937",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1350-Sq-ft-Multistorey-Apartment-FOR-Sale-Tellapur-in-Hyderabad&id=4d423737373034343937",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2022/09/07/Project-Photo-34-Rajapushpa-Imperia-Hyderabad-5331387_530_584_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in Tellapur, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.45301586",
+        "longitude": "78.27173549"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Suman"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tellapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

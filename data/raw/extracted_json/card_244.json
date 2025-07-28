@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1250-Sq-ft-Multistorey-Apartment-FOR-Sale-Hitech-City-in-Hyderabad&id=4d423737363237373037",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1250-Sq-ft-Multistorey-Apartment-FOR-Sale-Hitech-City-in-Hyderabad&id=4d423737363237373037",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/27/Photo_h180_w240/77627707_1_1743001186831-3743_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Hitech City Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.469453428935314",
+        "longitude": "78.40857621349411"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "raju"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hitech City",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

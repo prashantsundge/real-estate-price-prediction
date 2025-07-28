@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1580-Sq-ft-Multistorey-Apartment-FOR-Sale-Barkatpura-in-Hyderabad&id=4d423830343233323739",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1580-Sq-ft-Multistorey-Apartment-FOR-Sale-Barkatpura-in-Hyderabad&id=4d423830343233323739",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/17/Photo_h180_w240/80423279_18_PropertyImage1752768087229_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Barkatpura, Kachiguda, NH 2 2 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.392577",
+        "longitude": "78.49696"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Naresh Kumar"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Barkatpura",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

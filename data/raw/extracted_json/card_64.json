@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1456-Sq-ft-Multistorey-Apartment-FOR-Sale-Defence-Colony-Serilingampalle-in-Hyderabad&id=4d423738343133323031",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1456-Sq-ft-Multistorey-Apartment-FOR-Sale-Defence-Colony-Serilingampalle-in-Hyderabad&id=4d423738343133323031",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/20/Photo_h180_w240/78413201_11_edroom21490x3651_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Defence Colony Serilingampalle Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4743879",
+        "longitude": "78.319997"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Equity Real Estate"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Defence Colony Serilingampalle",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

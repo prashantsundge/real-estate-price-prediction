@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-2300-Sq-ft-Residential-House-FOR-Sale-Nagaram-in-Hyderabad&id=4d423830333736333431",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-2300-Sq-ft-Residential-House-FOR-Sale-Nagaram-in-Hyderabad&id=4d423830333736333431",
+    "numberOfRooms": "4",
+    "name": "4 BHK  House for Sale in Nagaram Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.35722076",
+        "longitude": "79.03221597"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Srihari Kunchala"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nagaram",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

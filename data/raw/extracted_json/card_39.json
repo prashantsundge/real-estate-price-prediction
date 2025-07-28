@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1703-Sq-ft-Multistorey-Apartment-FOR-Sale-Kismatpur-in-Hyderabad&id=4d423739303630353731",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1703-Sq-ft-Multistorey-Apartment-FOR-Sale-Kismatpur-in-Hyderabad&id=4d423739303630353731",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/04/04/Project-Photo-14-24-Carat-Hyderabad-5429927_900_1600_310_462.jpg",
+    "name": "undefined",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.34898901609838",
+        "longitude": "78.38786002945167"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Organization",
+            "name": "Giridhari Homes"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kismatpur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

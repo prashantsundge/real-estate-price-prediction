@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1475-Sq-ft-Multistorey-Apartment-FOR-Sale-Kondapur-in-Hyderabad&id=4d423830323632343035",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1475-Sq-ft-Multistorey-Apartment-FOR-Sale-Kondapur-in-Hyderabad&id=4d423830323632343035",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/05/15/Project-Photo-4-Namishree-Vrindavan-Hyderabad-5431841_2000_1375_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in Kondapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4661387919325",
+        "longitude": "78.3574087383959"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Harsha"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kondapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

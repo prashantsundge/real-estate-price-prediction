@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2700-Sq-ft-Builder-Floor-Apartment-FOR-Sale-Gajularamaram-in-Hyderabad&id=4d423738393130393233",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2700-Sq-ft-Builder-Floor-Apartment-FOR-Sale-Gajularamaram-in-Hyderabad&id=4d423738393130393233",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/18/Photo_h180_w240/78910923_9_PropertyImage1752753394298_180_240.jpg",
+    "name": "3 BHK Builder Floor for Sale in Gajularamaram Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.342208862304688",
+        "longitude": "78.36304473876953"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "sreepalreddy"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gajularamaram",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

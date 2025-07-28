@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1640-Sq-ft-Multistorey-Apartment-FOR-Sale-HUDA-Layout-in-Hyderabad&id=4d423830343636323737",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1640-Sq-ft-Multistorey-Apartment-FOR-Sale-HUDA-Layout-in-Hyderabad&id=4d423830343636323737",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/14/Photo_h180_w240/80466277_1_SC00224_180_240.JPG",
+    "name": "3 BHK Apartment for Sale in HUDA Layout Nalagandla Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4633553",
+        "longitude": "78.306611"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Ravi  Kumar"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "HUDA Layout",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

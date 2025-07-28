@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1010-Sq-ft-Multistorey-Apartment-FOR-Sale-Tellapur-in-Hyderabad&id=4d423830353838353933",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1010-Sq-ft-Multistorey-Apartment-FOR-Sale-Tellapur-in-Hyderabad&id=4d423830353838353933",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/28/Photo_h180_w240/80588593_4_1753696537085-3650_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Tellapur, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.46061897277832",
+        "longitude": "78.27516174316406"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Atanu B"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tellapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

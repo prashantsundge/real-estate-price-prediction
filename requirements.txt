@@ -1,0 +1,41 @@
+#core 
+pandas
+numpy 
+matplotlib
+seaborn
+
+#web Scrapping 
+requests
+beautifulsoup4
+lxml
+# Selenium webdriver-manager
+selenium 
+webdriver-manager
+
+#sql integration
+pyodbc
+sqlalchemy
+mysql-connector-python
+#machine Learning 
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+#experiment tracking 
+mlflow
+joblib
+
+#app/API
+
+fastapi
+uvicorn
+streamlit
+
+#jupyter Notebook 
+Notebook
+ipykernel
+#other
+python-dotenv
+
+

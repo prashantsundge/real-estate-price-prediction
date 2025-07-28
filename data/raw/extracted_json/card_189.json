@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1500-Sq-ft-Multistorey-Apartment-FOR-Sale-Tellapur-in-Hyderabad&id=4d423736303737313731",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1500-Sq-ft-Multistorey-Apartment-FOR-Sale-Tellapur-in-Hyderabad&id=4d423736303737313731",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Nov/23/Photo_h180_w240/76077171_6_PropertyImage1732287153258_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Tellapur, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.438560240265222",
+        "longitude": "78.28732316476481"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Deepak"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tellapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-167-Sq-yrd-Residential-House-FOR-Sale-Rampally-in-Hyderabad&id=4d423830343338333139",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-167-Sq-yrd-Residential-House-FOR-Sale-Rampally-in-Hyderabad&id=4d423830343338333139",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/23/Photo_h180_w240/80438319_15_PropertyImage1753247217076_180_240.jpg",
+    "name": "2 BHK  House for Sale in Rampally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4633233",
+        "longitude": "78.6346068"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "gopi"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rampally",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

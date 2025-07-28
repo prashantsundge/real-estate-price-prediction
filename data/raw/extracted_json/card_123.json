@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1200-Sq-ft-Multistorey-Apartment-FOR-Sale-Prasanth-Nagar-in-Hyderabad&id=4d423739313636303437",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1200-Sq-ft-Multistorey-Apartment-FOR-Sale-Prasanth-Nagar-in-Hyderabad&id=4d423739313636303437",
+    "numberOfRooms": "2",
+    "name": "2 BHK Apartment for Sale in Prasanth Nagar Miyapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.503856658935547",
+        "longitude": "78.35360717773438"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Kuchamkarthik"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Prasanth Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1357-Sq-ft-Multistorey-Apartment-FOR-Sale-Osman-Nagar-in-Hyderabad&id=4d423739393233323639",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1357-Sq-ft-Multistorey-Apartment-FOR-Sale-Osman-Nagar-in-Hyderabad&id=4d423739393233323639",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/09/Photo_h180_w240/79923269_11_yberHeightsFolderpage0002_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Osman Nagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4417842468164",
+        "longitude": "78.2803618440924"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Mahesh"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Osman Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

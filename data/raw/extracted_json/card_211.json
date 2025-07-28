@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1280-Sq-ft-Multistorey-Apartment-FOR-Sale-Nallagandla-in-Hyderabad&id=4d423738353138363435",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1280-Sq-ft-Multistorey-Apartment-FOR-Sale-Nallagandla-in-Hyderabad&id=4d423738353138363435",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Apr/06/Photo_h180_w240/78518645_3_PropertyImage1743868812307_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Nalagandla Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.46235977",
+        "longitude": "78.3035209"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Venkat"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nallagandla",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

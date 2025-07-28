@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-900-Sq-ft-Residential-House-FOR-Sale-Indresham-in-Hyderabad&id=4d423830323738323231",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-900-Sq-ft-Residential-House-FOR-Sale-Indresham-in-Hyderabad&id=4d423830323738323231",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/12/Photo_h180_w240/80278221_8_MG20250712WA0004_180_240.jpg",
+    "name": "2 BHK  House for Sale in Indresham, Bachuguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.569432",
+        "longitude": "78.2535764"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "vasavi"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Indresham",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

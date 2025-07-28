@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-4500-Sq-ft-Residential-House-FOR-Sale-in-Hyderabad&id=4d423739393038333637",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-4500-Sq-ft-Residential-House-FOR-Sale-in-Hyderabad&id=4d423739393038333637",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/08/Photo_h180_w240/79908367_1_IMG6731_180_240.jpeg",
+    "name": "4 BHK  House for Sale in Advocate colony Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "S k goud"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

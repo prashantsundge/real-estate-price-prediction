@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1100-Sq-ft-Multistorey-Apartment-FOR-Sale-Financial-District-in-Hyderabad&id=4d423735353235313439",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1100-Sq-ft-Multistorey-Apartment-FOR-Sale-Financial-District-in-Hyderabad&id=4d423735353235313439",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Oct/18/Photo_h180_w240/75525149_7_PropertyImage154-86952303743672_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Financial District, Nanakram Guda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.443563",
+        "longitude": "78.3397746"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Lakshmi"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Financial District",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1828-Sq-ft-Multistorey-Apartment-FOR-Sale-Patancheru-in-Hyderabad&id=4d423830363630333133",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1828-Sq-ft-Multistorey-Apartment-FOR-Sale-Patancheru-in-Hyderabad&id=4d423830363630333133",
+    "numberOfRooms": "3",
+    "name": "3 BHK Apartment for Sale in Patancheruvu Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.513124465942383",
+        "longitude": "78.25969696044922"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "SATYA GOLUSU"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Patancheru",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1375-Sq-ft-Multistorey-Apartment-FOR-Sale-Alkapur-Township-in-Hyderabad&id=4d423634313738343535",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1375-Sq-ft-Multistorey-Apartment-FOR-Sale-Alkapur-Township-in-Hyderabad&id=4d423634313738343535",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Nov/16/Photo_h180_w240/64178455_4_allery-16(1)_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Alkapur Township, Manikonda, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3836594",
+        "longitude": "78.3219475"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Inteti Prasad"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Alkapur Township",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

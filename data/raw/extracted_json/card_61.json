@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1320-Sq-ft-Multistorey-Apartment-FOR-Sale-Gundlapochampalli-in-Hyderabad&id=4d423738353432363931",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1320-Sq-ft-Multistorey-Apartment-FOR-Sale-Gundlapochampalli-in-Hyderabad&id=4d423738353432363931",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/23/Photo_h180_w240/78542691_4_hanodayasCrystal3_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Gundlapochampalli Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.57292317",
+        "longitude": "78.47341368"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Dreamy Homes"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gundlapochampalli",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

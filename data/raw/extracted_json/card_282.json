@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1175-Sq-ft-Multistorey-Apartment-FOR-Sale-Telecom-Nagar-in-Hyderabad&id=4d423636373938353131",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1175-Sq-ft-Multistorey-Apartment-FOR-Sale-Telecom-Nagar-in-Hyderabad&id=4d423636373938353131",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/Project-Photo-24-L&T-Serene-County-Hyderabad-5021039_491_1600_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in Telecom Nagar Gachibowli Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.443563",
+        "longitude": "78.3397746"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Gopi"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Telecom Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

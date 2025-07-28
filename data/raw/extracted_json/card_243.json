@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1115-Sq-ft-Multistorey-Apartment-FOR-Sale-TNGOS-Colony-in-Hyderabad&id=4d423830323937333635",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1115-Sq-ft-Multistorey-Apartment-FOR-Sale-TNGOS-Colony-in-Hyderabad&id=4d423830323937333635",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2023/12/05/Project-Photo-27-My-Home-Vihanga-Hyderabad-5026855_345_1366_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in TNGOS Colony Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.443563",
+        "longitude": "78.3397746"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Amol"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2300-Sq-ft-Multistorey-Apartment-FOR-Sale-Kollur-in-Hyderabad&id=4d423830323937343737",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2300-Sq-ft-Multistorey-Apartment-FOR-Sale-Kollur-in-Hyderabad&id=4d423830323937343737",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2024/09/30/Project-Photo-22-ANVITA-HIGH9-Hyderabad-5420813_2000_1500_310_462.jpg",
+    "name": "3 BHK Apartment for Sale in Kollur, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.46337342",
+        "longitude": "78.25373742"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Manjunath"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kollur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

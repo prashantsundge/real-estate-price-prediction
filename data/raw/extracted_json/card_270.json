@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1420-Sq-ft-Multistorey-Apartment-FOR-Sale-Pedda-Amberpet-in-Hyderabad&id=4d423830353339303837",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1420-Sq-ft-Multistorey-Apartment-FOR-Sale-Pedda-Amberpet-in-Hyderabad&id=4d423830353339303837",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/19/Photo_h180_w240/80539087_1_PropertyImage788-5827098143827_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Pedda Amberpet Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.320587158203125",
+        "longitude": "78.63780975341797"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Ramya"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

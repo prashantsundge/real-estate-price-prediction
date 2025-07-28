@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1300-Sq-ft-Villa-FOR-Sale-Malkajgiri-in-Hyderabad&id=4d423739343037343439",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1300-Sq-ft-Villa-FOR-Sale-Malkajgiri-in-Hyderabad&id=4d423739343037343439",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/May/23/Photo_h180_w240/79407449_9_PropertyImage1748009326858_180_240.jpg",
+    "name": "3 BHK Villa for Sale in Malkajgiri Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.448486",
+        "longitude": "78.532389"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Amjed"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}
