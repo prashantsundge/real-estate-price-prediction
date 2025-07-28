@@ -6,8 +6,6 @@ real-estate-price-prediction
 
 
 
-Perfect! Here's a clear approach for this task in your **`real-estate-price-prediction`** project structure:
-
 ---
 
 ### ✅ **Objective: Scrape all MagicBricks property listings and save**
