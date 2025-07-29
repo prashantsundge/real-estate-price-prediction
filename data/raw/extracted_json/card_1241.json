@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1270-Sq-ft-Multistorey-Apartment-FOR-Sale-Kokapet-in-Hyderabad&id=4d423637343132353535",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1270-Sq-ft-Multistorey-Apartment-FOR-Sale-Kokapet-in-Hyderabad&id=4d423637343132353535",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jun/07/Photo_h180_w240/67412555_3_PropertyImage963-5227356260059_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Kokapet, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3969314",
+        "longitude": "78.335221"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Varun Rathi"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kokapet",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

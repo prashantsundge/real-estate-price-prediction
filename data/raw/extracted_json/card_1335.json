@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/5-BHK-2000-Sq-ft-Residential-House-FOR-Sale-Hayathnagar-in-Hyderabad&id=4d423635313631313439",
+    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-2000-Sq-ft-Residential-House-FOR-Sale-Hayathnagar-in-Hyderabad&id=4d423635313631313439",
+    "numberOfRooms": "5",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jan/17/Photo_h180_w240/bc16f55-3dfd-4848-8417-5a41b2c9f2f4_65161149_180_240.jpg",
+    "name": "5 BHK  House for Sale in Hayathnagar Khalsa Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.33023",
+        "longitude": "78.602495"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Padma"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hayathnagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1715-Sq-ft-Multistorey-Apartment-FOR-Sale-Jubilee-Hills-in-Hyderabad&id=4d423638313433313831",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1715-Sq-ft-Multistorey-Apartment-FOR-Sale-Jubilee-Hills-in-Hyderabad&id=4d423638313433313831",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/Western%20Plaza-2_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in Jubilee Hills Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4087665",
+        "longitude": "78.3876997"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Lokesh Das"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Jubilee Hills",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

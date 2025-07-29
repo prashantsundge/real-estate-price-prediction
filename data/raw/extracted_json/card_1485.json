@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1400-Sq-ft-Multistorey-Apartment-FOR-Sale-Sai-Baba-Colony-in-Hyderabad&id=4d423739373433333735",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1400-Sq-ft-Multistorey-Apartment-FOR-Sale-Sai-Baba-Colony-in-Hyderabad&id=4d423739373433333735",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/02/Photo_h180_w240/79743375_2_aaaf32da9044d0d9ec65affbfe66ef6_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Sai Baba Colony Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.39675192",
+        "longitude": "78.52022698"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "RADHAKRISHNA"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

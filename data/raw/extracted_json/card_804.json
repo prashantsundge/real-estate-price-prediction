@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1753-Sq-ft-Multistorey-Apartment-FOR-Sale-Patancheru-in-Hyderabad&id=4d423734303033303335",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1753-Sq-ft-Multistorey-Apartment-FOR-Sale-Patancheru-in-Hyderabad&id=4d423734303033303335",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2022/03/07/Project-Photo-39-Jewels-County-Hyderabad-5128267_1200_1600_310_462.jpg",
+    "name": "3 BHK Apartment for Sale in Patancheruvu Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.513125",
+        "longitude": "78.259694"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "manas"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Patancheru",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

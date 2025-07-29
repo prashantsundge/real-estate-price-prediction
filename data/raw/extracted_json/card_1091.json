@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1350-Sq-ft-Residential-House-FOR-Sale-Patel-Guda-Mangalpalle-in-Hyderabad&id=4d423732303133373437",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1350-Sq-ft-Residential-House-FOR-Sale-Patel-Guda-Mangalpalle-in-Hyderabad&id=4d423732303133373437",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Mar/24/Photo_h180_w240/72013747_11_hatsAppImage20240324at11.52.19AM2_180_240.jpeg",
+    "name": "2 BHK  House for Sale in Patel Guda Mangalpalle Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.21639633178711",
+        "longitude": "78.58194732666016"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Suma Anjali Profile "
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Patel Guda Mangalpalle",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

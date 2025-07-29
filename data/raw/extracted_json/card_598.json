@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1350-Sq-ft-Residential-House-FOR-Sale-Indraprastha-Colony-in-Hyderabad&id=4d423637313038373339",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1350-Sq-ft-Residential-House-FOR-Sale-Indraprastha-Colony-in-Hyderabad&id=4d423637313038373339",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/May/18/Photo_h180_w240/67108739_2_PropertyImage92-85362576655531_180_240.jpg",
+    "name": "2 BHK  House for Sale in Indraprastha Colony Bandlaguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.370186",
+        "longitude": "78.575262"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "pidugu Rambabu"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Indraprastha Colony",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-150-Sq-yrd-Residential-House-FOR-Sale-Balapur-in-Hyderabad&id=4d423733303539343531",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-150-Sq-yrd-Residential-House-FOR-Sale-Balapur-in-Hyderabad&id=4d423733303539343531",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Jun/16/Photo_h180_w240/73059451_1_1718513433745-729_180_240.jpg",
+    "name": "4 BHK  House for Sale in Balapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.301606",
+        "longitude": "78.503743"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Reddy"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Balapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

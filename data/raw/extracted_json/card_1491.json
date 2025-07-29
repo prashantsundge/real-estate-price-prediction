@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-160-Sq-yrd-Residential-House-FOR-Sale-Thumukunta-in-Hyderabad&id=4d423739323336303231",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-160-Sq-yrd-Residential-House-FOR-Sale-Thumukunta-in-Hyderabad&id=4d423739323336303231",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/08/Photo_h180_w240/79236021_7_1749364167256-4968_180_240.jpg",
+    "name": "4 BHK  House for Sale in Thumukunta Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.559768676757812",
+        "longitude": "78.55750274658203"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Bala krishna"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Thumukunta",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

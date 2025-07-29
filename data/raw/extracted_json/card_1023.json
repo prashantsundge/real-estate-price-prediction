@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1200-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423638323830323335",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1200-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423638323830323335",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jul/24/Photo_h180_w240/68280235_6_20221022_160643_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Nanakramguda Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Sujana"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1650-Sq-ft-Multistorey-Apartment-FOR-Sale-Kompally-in-Hyderabad&id=4d423638313136313633",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1650-Sq-ft-Multistorey-Apartment-FOR-Sale-Kompally-in-Hyderabad&id=4d423638313136313633",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jul/17/Photo_h180_w240/68116163_1_1689576303850-881_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Kompally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.54259490966797",
+        "longitude": "78.48229217529297"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Mahesh"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kompally",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

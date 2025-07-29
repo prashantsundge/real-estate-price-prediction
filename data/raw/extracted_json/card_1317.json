@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1100-Sq-ft-Residential-House-FOR-Sale-Balapur-in-Hyderabad&id=4d423639303530323839",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1100-Sq-ft-Residential-House-FOR-Sale-Balapur-in-Hyderabad&id=4d423639303530323839",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Sep/13/Photo_h180_w240/69050289_2_PropertyImage219-44152737729638_180_240.jpg",
+    "name": "3 BHK  House for Sale in Balapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.301605224609375",
+        "longitude": "78.50374603271484"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Syed Masood Ahmed"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Balapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

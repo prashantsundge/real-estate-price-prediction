@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2242-Sq-ft-Multistorey-Apartment-FOR-Sale-Anand-Nagar-in-Hyderabad&id=4d423732303438373835",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2242-Sq-ft-Multistorey-Apartment-FOR-Sale-Anand-Nagar-in-Hyderabad&id=4d423732303438373835",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Mar/27/Photo_h180_w240/72048785_2_alcony_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Anand Nagar Bandlaguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3695135051451",
+        "longitude": "78.5761101115763"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Narasimha Reddy"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Anand Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

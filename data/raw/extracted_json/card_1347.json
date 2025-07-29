@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1753-Sq-ft-Multistorey-Apartment-FOR-Sale-Kollur-in-Hyderabad&id=4d423633393234353937",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1753-Sq-ft-Multistorey-Apartment-FOR-Sale-Kollur-in-Hyderabad&id=4d423633393234353937",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Dec/02/Photo_h180_w240/63924597_7_IMG20221026123013_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Kollur, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.438558",
+        "longitude": "78.23899"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Ravikumar"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kollur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

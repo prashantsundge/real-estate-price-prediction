@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/5-BHK-1500-Sq-ft-Multistorey-Apartment-FOR-Sale-Peerzadiguda-in-Hyderabad&id=4d423632393938333135",
+    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-1500-Sq-ft-Multistorey-Apartment-FOR-Sale-Peerzadiguda-in-Hyderabad&id=4d423632393938333135",
+    "numberOfRooms": "5",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Sep/08/Photo_h180_w240/62998315_7_PropertyImage1662645788534_180_240.jpg",
+    "name": "5 BHK Apartment for Sale in Peerzadiguda, NH 2 2 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.396989822387695",
+        "longitude": "78.59651947021484"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Suresh Chowdary"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Peerzadiguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

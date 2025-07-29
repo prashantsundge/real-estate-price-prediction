@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1296-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423830313631333231",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1296-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423830313631333231",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2021/12/29/Project-Photo-15-Anuhar-Towers-Hyderabad-5242963_310_500_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in Anuhar Homes Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3861055",
+        "longitude": "78.3702875"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "RAVI"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2170-Sq-ft-Multistorey-Apartment-FOR-Sale-Suchitra-Circle-in-Hyderabad&id=4d423734393531323737",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2170-Sq-ft-Multistorey-Apartment-FOR-Sale-Suchitra-Circle-in-Hyderabad&id=4d423734393531323737",
+    "numberOfRooms": "3",
+    "name": "3 BHK Apartment for Sale in Suchitra Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.499258",
+        "longitude": "78.476754"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "RR kumar R Ravikumar"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Suchitra Circle",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

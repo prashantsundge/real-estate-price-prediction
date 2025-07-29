@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1600-Sq-ft-Multistorey-Apartment-FOR-Sale-Manikonda-in-Hyderabad&id=4d423739383433343831",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1600-Sq-ft-Multistorey-Apartment-FOR-Sale-Manikonda-in-Hyderabad&id=4d423739383433343831",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/09/Photo_h180_w240/79843481_5_PropertyImage1749452194836_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Manikonda Jagir Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4027031",
+        "longitude": "78.3888369"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Addanki Harika"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Manikonda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

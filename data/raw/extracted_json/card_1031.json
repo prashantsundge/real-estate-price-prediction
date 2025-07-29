@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/5-BHK-125-Sq-yrd-Residential-House-FOR-Sale-Hakimpet-in-Hyderabad&id=4d423732373036313133",
+    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-125-Sq-yrd-Residential-House-FOR-Sale-Hakimpet-in-Hyderabad&id=4d423732373036313133",
+    "numberOfRooms": "5",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/May/08/Photo_h180_w240/72706113_1_IMG_6416_180_240.jpeg",
+    "name": "5 BHK  House for Sale in Hakimpet Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "rayan"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

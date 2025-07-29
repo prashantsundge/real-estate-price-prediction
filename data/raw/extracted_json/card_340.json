@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/1-BHK-42-Sq-yrd-Residential-House-FOR-Sale-Park-Lane-in-Hyderabad&id=4d423830323334343835",
+    "url": "https://www.magicbricks.com/propertyDetails/1-BHK-42-Sq-yrd-Residential-House-FOR-Sale-Park-Lane-in-Hyderabad&id=4d423830323334343835",
+    "numberOfRooms": "1",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/01/Photo_h180_w240/80234485_8_PropertyImage1751355012852_180_240.jpg",
+    "name": "1 BHK  House for Sale in Park Lane Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.411378860473633",
+        "longitude": "78.5061264038086"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "A Srinivas"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Park Lane",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

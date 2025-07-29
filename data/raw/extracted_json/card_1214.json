@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-32-Sq-ft-Residential-House-FOR-Sale-Indresham-in-Hyderabad&id=4d423739343738363439",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-32-Sq-ft-Residential-House-FOR-Sale-Indresham-in-Hyderabad&id=4d423739343738363439",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/May/17/Photo_h180_w240/79478649_7_PropertyImage449-1338254132252_180_240.jpg",
+    "name": "2 BHK  House for Sale in Indresham, Bachuguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.569432",
+        "longitude": "78.2535764"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Sej Anil Goswami"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Indresham",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

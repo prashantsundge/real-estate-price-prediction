@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1930-Sq-ft-Multistorey-Apartment-FOR-Sale-Manikonda-in-Hyderabad&id=4d423738333437343437",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1930-Sq-ft-Multistorey-Apartment-FOR-Sale-Manikonda-in-Hyderabad&id=4d423738333437343437",
+    "numberOfRooms": "3",
+    "name": "3 BHK Apartment for Sale in Manikonda Jagir Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4125038126094",
+        "longitude": "78.3687404301165"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "SK Life Spaces"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Manikonda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

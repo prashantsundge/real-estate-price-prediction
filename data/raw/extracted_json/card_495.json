@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-160-Sq-yrd-Residential-House-FOR-Sale-Balapur-Badangpet-Road-in-Hyderabad&id=4d423737323832363539",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-160-Sq-yrd-Residential-House-FOR-Sale-Balapur-Badangpet-Road-in-Hyderabad&id=4d423737323832363539",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jan/24/Photo_h180_w240/3b58c472-9a9e-433e-bd3a-d816b9c86356_77282659_180_240.jpg",
+    "name": "3 BHK  House for Sale in Balapur Badangpet Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.306068420410156",
+        "longitude": "78.51629638671875"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "aryan"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Balapur Badangpet Road",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

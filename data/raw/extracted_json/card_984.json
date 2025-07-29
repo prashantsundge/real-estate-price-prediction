@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2100-Sq-ft-Multistorey-Apartment-FOR-Sale-Radha-Krishna-Nagar-Attapur-in-Hyderabad&id=4d423332363839353639",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2100-Sq-ft-Multistorey-Apartment-FOR-Sale-Radha-Krishna-Nagar-Attapur-in-Hyderabad&id=4d423332363839353639",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2018/Feb/22/Photo_h180_w240/32689569_1_PropertyImage179-75973452877457_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Radha Krishna Nagar Attapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.369140625",
+        "longitude": "78.42835998535156"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "manish asawa"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Radha Krishna Nagar Attapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

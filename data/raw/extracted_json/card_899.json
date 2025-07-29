@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1295-Sq-ft-Multistorey-Apartment-FOR-Sale-Bandam-Kommu-in-Hyderabad&id=4d423735303238333131",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1295-Sq-ft-Multistorey-Apartment-FOR-Sale-Bandam-Kommu-in-Hyderabad&id=4d423735303238333131",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2022/02/21/Project-Photo-1-Aparna-Lake-Breeze-Hyderabad-5212799_1200_1600_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in Bandam Kommu Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.504094",
+        "longitude": "78.328059"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Madhushree"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bandam Kommu",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

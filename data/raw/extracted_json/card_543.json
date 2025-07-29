@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-3400-Sq-ft-Villa-FOR-Sale-Rudraram-in-Hyderabad&id=4d423739393137343235",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-3400-Sq-ft-Villa-FOR-Sale-Rudraram-in-Hyderabad&id=4d423739393137343235",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/23/Photo_h180_w240/79917425_5_PropertyImage494-1078429701621_180_240.jpg",
+    "name": "3 BHK Villa for Sale in Rudraram, NH 9 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5624404024649",
+        "longitude": "78.1670597117257"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "k. kalyan"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rudraram",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

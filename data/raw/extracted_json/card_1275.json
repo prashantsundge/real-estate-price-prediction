@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1800-Sq-ft-Residential-House-FOR-Sale-Bandlaguda-Jagir-in-Hyderabad&id=4d423737303138393937",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1800-Sq-ft-Residential-House-FOR-Sale-Bandlaguda-Jagir-in-Hyderabad&id=4d423737303138393937",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2024/11/29/Project-Photo-14-SMR-Vinay-Heights-Hyderabad-5061257_563_988_310_462.jpg",
+    "name": "3 BHK  House for Sale in Bandlaguda Jagir Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3571086350415",
+        "longitude": "78.3948731204593"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Srikanth"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bandlaguda Jagir",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

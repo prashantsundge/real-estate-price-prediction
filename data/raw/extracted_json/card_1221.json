@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/6-BHK-3300-Sq-ft-Residential-House-FOR-Sale-Peerzadiguda-in-Hyderabad&id=4d423339333234343139",
+    "url": "https://www.magicbricks.com/propertyDetails/6-BHK-3300-Sq-ft-Residential-House-FOR-Sale-Peerzadiguda-in-Hyderabad&id=4d423339333234343139",
+    "numberOfRooms": "6",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2019/Jan/14/Photo_h180_w240/39324419_2_IMG_20180503_113607_180_240.jpg",
+    "name": "6 BHK  House for Sale in Peerzadiguda, NH 2 2 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4027678988506",
+        "longitude": "78.6284890189194"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Kiran"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Peerzadiguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

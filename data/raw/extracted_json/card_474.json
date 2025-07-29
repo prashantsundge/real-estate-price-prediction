@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1335-Sq-ft-Multistorey-Apartment-FOR-Sale-Kompally-in-Hyderabad&id=4d423830303034353033",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1335-Sq-ft-Multistorey-Apartment-FOR-Sale-Kompally-in-Hyderabad&id=4d423830303034353033",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2024/10/11/Project-Photo-64-Aparna-Serenity-Hyderabad-5221217_1280_960_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in Kompally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.52262456",
+        "longitude": "78.4899126"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Vara Prasad  Reddy"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kompally",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

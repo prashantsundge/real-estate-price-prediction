@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1350-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423731393332343239",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1350-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423731393332343239",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Apr/06/Photo_h180_w240/71932429_4_1712361818506-144_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Nallagandla Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Keerthi B"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

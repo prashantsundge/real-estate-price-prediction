@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-253-Sq-yrd-Residential-House-FOR-Sale-Meerpet-in-Hyderabad&id=4d423830323639303231",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-253-Sq-yrd-Residential-House-FOR-Sale-Meerpet-in-Hyderabad&id=4d423830323639303231",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/02/Photo_h180_w240/80269021_1_1751437040581-15010_180_240.jpg",
+    "name": "4 BHK  House for Sale in Meerpet Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.322824478149414",
+        "longitude": "78.52800750732422"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "deepanksh "
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Meerpet",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

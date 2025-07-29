@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1700-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423638333031383439",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1700-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423638333031383439",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Aug/03/Photo_h180_w240/68301849_6_PropertyImage574-2834932391514_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Banjara petals Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Mohan Ranga"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

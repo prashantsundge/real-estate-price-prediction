@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-3300-Sq-ft-Residential-House-FOR-Sale-in-Hyderabad&id=4d423637373939323237",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-3300-Sq-ft-Residential-House-FOR-Sale-in-Hyderabad&id=4d423637373939323237",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jun/30/Photo_h180_w240/67799227_2_IMG-0142[1]_180_240.jpg",
+    "name": "4 BHK  House for Sale in RTC Colony-Chandanagar Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Laxmi"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

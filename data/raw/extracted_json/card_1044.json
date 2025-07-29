@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1604-Sq-ft-Multistorey-Apartment-FOR-Sale-Attapur-in-Hyderabad&id=4d423731323538333533",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1604-Sq-ft-Multistorey-Apartment-FOR-Sale-Attapur-in-Hyderabad&id=4d423731323538333533",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Feb/06/Photo_h180_w240/71258353_3_20190112_145707--1-_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Attapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3493880394452",
+        "longitude": "78.4130563068722"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Aneesa Faisal"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Attapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

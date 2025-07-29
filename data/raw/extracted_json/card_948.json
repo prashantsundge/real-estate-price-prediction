@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-2500-Sq-yrd-Residential-House-FOR-Sale-in-Hyderabad&id=4d423637323132323339",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-2500-Sq-yrd-Residential-House-FOR-Sale-in-Hyderabad&id=4d423637323132323339",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/May/25/Photo_h180_w240/67212239_1_PropertyImage379-6804128260703_180_240.jpg",
+    "name": "4 BHK  House for Sale in kakarla svagruham Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Vijaya"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

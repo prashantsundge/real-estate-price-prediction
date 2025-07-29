@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-1250-Sq-ft-Residential-House-FOR-Sale-Bandlaguda-Nagole-in-Hyderabad&id=4d423636313633393937",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-1250-Sq-ft-Residential-House-FOR-Sale-Bandlaguda-Nagole-in-Hyderabad&id=4d423636313633393937",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Mar/20/Photo_h180_w240/66163997_1_PropertyImage760-6912578875792_180_240.jpg",
+    "name": "4 BHK  House for Sale in Bandlaguda Nagole Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3698473963932",
+        "longitude": "78.5732556644916"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "nithin"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bandlaguda Nagole",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

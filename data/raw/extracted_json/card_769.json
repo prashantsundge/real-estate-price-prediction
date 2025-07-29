@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1670-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423737373636313239",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1670-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423737373636313239",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Feb/14/Photo_h180_w240/77766129_4_PropertyImage672-0531244684915_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Manikanta"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-2520-Sq-ft-Residential-House-FOR-Sale-Stella-Nagaram-in-Hyderabad&id=4d423537353635353539",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-2520-Sq-ft-Residential-House-FOR-Sale-Stella-Nagaram-in-Hyderabad&id=4d423537353635353539",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Apr/14/Photo_h180_w240/57565559_9_PropertyImage63-32953702237665_180_240.jpg",
+    "name": "4 BHK  House for Sale in Stella Nagaram, Dammaiguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4981759457564",
+        "longitude": "78.6059101489121"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "hema latha"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Stella Nagaram",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

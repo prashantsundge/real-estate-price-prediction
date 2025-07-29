@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-2670-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423637373939343833",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-2670-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423637373939343833",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jun/30/Photo_h180_w240/67799483_4_TVunit_180_240.jpg",
+    "name": "4 BHK Apartment for Sale in Gachibowli CUC Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Mr Gupta"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

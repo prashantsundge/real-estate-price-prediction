@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1917-Sq-ft-Multistorey-Apartment-FOR-Sale-Toli-Chowki-in-Hyderabad&id=4d423736313630383139",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1917-Sq-ft-Multistorey-Apartment-FOR-Sale-Toli-Chowki-in-Hyderabad&id=4d423736313630383139",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Nov/24/Photo_h180_w240/76160819_1_PropertyImage447-39036426521415_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Toli Chowki Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.395899",
+        "longitude": "78.4147641"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "javeed"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Toli Chowki",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

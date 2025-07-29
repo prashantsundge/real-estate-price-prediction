@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1480-Sq-ft-Multistorey-Apartment-FOR-Sale-Moosapet-in-Hyderabad&id=4d423536343431303239",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1480-Sq-ft-Multistorey-Apartment-FOR-Sale-Moosapet-in-Hyderabad&id=4d423536343431303239",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2021/08/12/Project-Photo-9-ORIANA-Hyderabad-5296639_878_1600_310_462.jpg",
+    "name": "undefined",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.466592691064132",
+        "longitude": "78.41164038258505"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Organization",
+            "name": "Nertanand "
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Moosapet",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-900-Sq-ft-Residential-House-FOR-Sale-Feroz-Gandhi-Nagar-in-Hyderabad&id=4d423830363539333039",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-900-Sq-ft-Residential-House-FOR-Sale-Feroz-Gandhi-Nagar-in-Hyderabad&id=4d423830363539333039",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/26/Photo_h180_w240/80659309_4_0240123133809_180_240.jpg",
+    "name": "2 BHK  House for Sale in Feroz Gandhi Nagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.390771865844727",
+        "longitude": "78.45357513427734"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "MOHAMMED"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

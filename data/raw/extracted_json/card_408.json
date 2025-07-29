@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1540-Sq-ft-Multistorey-Apartment-FOR-Sale-Somajiguda-in-Hyderabad&id=4d423638333532303537",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1540-Sq-ft-Multistorey-Apartment-FOR-Sale-Somajiguda-in-Hyderabad&id=4d423638333532303537",
+    "numberOfRooms": "3",
+    "name": "3 BHK Apartment for Sale in Somajiguda, NH 9 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.42171287536621",
+        "longitude": "78.45764923095703"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Harshkapoor"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Somajiguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

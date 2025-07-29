@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1300-Sq-ft-Residential-House-FOR-Sale-Kandlakoya-in-Hyderabad&id=4d423830353830323339",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1300-Sq-ft-Residential-House-FOR-Sale-Kandlakoya-in-Hyderabad&id=4d423830353830323339",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/21/Photo_h180_w240/80580239_7_PropertyImage933-9622912783382_180_240.jpg",
+    "name": "3 BHK  House for Sale in Kandlakoya Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5170669746611",
+        "longitude": "78.4914459643912"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "punith jaiswal"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kandlakoya",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

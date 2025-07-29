@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1550-Sq-ft-Multistorey-Apartment-FOR-Sale-APIIC-Colony-Jeedimetla-in-Hyderabad&id=4d423739323036343631",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1550-Sq-ft-Multistorey-Apartment-FOR-Sale-APIIC-Colony-Jeedimetla-in-Hyderabad&id=4d423739323036343631",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/May/01/Photo_h180_w240/79206461_6_1746094587291-816_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in APIIC Colony Jeedimetla Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.522356033325195",
+        "longitude": "78.44002532958984"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Ashok Nijanapuram"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "APIIC Colony Jeedimetla",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

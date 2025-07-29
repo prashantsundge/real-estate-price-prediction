@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1910-Sq-ft-Multistorey-Apartment-FOR-Sale-Ruby-Block-in-Hyderabad&id=4d423736323635363631",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1910-Sq-ft-Multistorey-Apartment-FOR-Sale-Ruby-Block-in-Hyderabad&id=4d423736323635363631",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Nov/30/Photo_h180_w240/76265661_7_hatsAppImage20241025at3.14.50AM_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Ruby Block, Komapally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5326488",
+        "longitude": "78.486595"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Ashish"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ruby Block",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

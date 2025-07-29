@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/6-BHK-3350-Sq-ft-Residential-House-FOR-Sale-Suraram-in-Hyderabad&id=4d423734363537303133",
+    "url": "https://www.magicbricks.com/propertyDetails/6-BHK-3350-Sq-ft-Residential-House-FOR-Sale-Suraram-in-Hyderabad&id=4d423734363537303133",
+    "numberOfRooms": "6",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Sep/02/Photo_h180_w240/74657013_1_MG20240901185535_180_240.jpg",
+    "name": "6 BHK  House for Sale in Suraram Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3611003",
+        "longitude": "79.21574149"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Bharath"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Suraram",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

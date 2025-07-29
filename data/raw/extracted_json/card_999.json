@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1125-Sq-ft-Multistorey-Apartment-FOR-Sale-Masab-Tank-in-Hyderabad&id=4d423738353633363237",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1125-Sq-ft-Multistorey-Apartment-FOR-Sale-Masab-Tank-in-Hyderabad&id=4d423738353633363237",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/25/Photo_h180_w240/0082ad1f-95f9-4543-afdd-4abfd85b3804_78563627_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Masab Tank Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4013510448553",
+        "longitude": "78.4515274006919"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Omesh Valtati"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Masab Tank",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

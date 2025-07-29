@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1571-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423738343032323233",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1571-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423738343032323233",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/15/Photo_h180_w240/78402223_11_PropertyImage481-59295379575065_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in RAIN FOREST APARTMENTS Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Vamshi Krishna"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

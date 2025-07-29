@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1560-Sq-ft-Multistorey-Apartment-FOR-Sale-Kondapur-in-Hyderabad&id=4d423632313533383131",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1560-Sq-ft-Multistorey-Apartment-FOR-Sale-Kondapur-in-Hyderabad&id=4d423632313533383131",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Jul/27/Photo_h180_w240/62153811_5_PropertyImage1658916647768_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Kondapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4677754",
+        "longitude": "78.362754"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Shabbeer"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kondapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

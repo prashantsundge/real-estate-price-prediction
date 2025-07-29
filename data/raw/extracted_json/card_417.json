@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1600-Sq-ft-Multistorey-Apartment-FOR-Sale-Tilak-Nagar-in-Hyderabad&id=4d423736313535323235",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1600-Sq-ft-Multistorey-Apartment-FOR-Sale-Tilak-Nagar-in-Hyderabad&id=4d423736313535323235",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Nov/23/Photo_h180_w240/76155225_7_edf876247ef3441686f4db45c9cafa85_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Tilak Nagar, New Nallakunta, NH 2 2 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.39322280883789",
+        "longitude": "78.50791931152344"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "ram"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tilak Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

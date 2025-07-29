@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2000-Sq-ft-Multistorey-Apartment-FOR-Sale-LB-Nagar-in-Hyderabad&id=4d423237373639353331",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2000-Sq-ft-Multistorey-Apartment-FOR-Sale-LB-Nagar-in-Hyderabad&id=4d423237373639353331",
+    "numberOfRooms": "3",
+    "name": "3 BHK Apartment for Sale in LB Nagar, NH 9 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3583282966385",
+        "longitude": "78.5525463574341"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Dr Mahender rao"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "LB Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

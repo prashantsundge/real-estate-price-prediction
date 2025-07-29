@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1150-Sq-ft-Residential-House-FOR-Sale-in-Hyderabad&id=4d423730303935393331",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1150-Sq-ft-Residential-House-FOR-Sale-in-Hyderabad&id=4d423730303935393331",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Nov/20/Photo_h180_w240/70095931_13_PropertyImage390-68989176142657_180_240.jpg",
+    "name": "2 BHK  House for Sale in Nithya Avenue Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Anil Reddy"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

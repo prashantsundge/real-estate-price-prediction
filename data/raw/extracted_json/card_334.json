@@ -1,0 +1,20 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2240-Sq-ft-Villa-FOR-Sale-in-Hyderabad&id=4d423738393336383535",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2240-Sq-ft-Villa-FOR-Sale-in-Hyderabad&id=4d423738393336383535",
+    "numberOfRooms": "3",
+    "name": "3 BHK Villa for Sale in kaythri oak ville Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Naveen kumar katta"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

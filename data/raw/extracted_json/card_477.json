@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1500-Sq-ft-Multistorey-Apartment-FOR-Sale-Miyapur-Road-in-Hyderabad&id=4d423830343832373833",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1500-Sq-ft-Multistorey-Apartment-FOR-Sale-Miyapur-Road-in-Hyderabad&id=4d423830343832373833",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/18/Photo_h180_w240/80482783_2_PropertyImage1752857249635_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Miyapur Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.357263565063477",
+        "longitude": "78.37874603271484"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "SUDHEER REDDY"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Miyapur Road",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

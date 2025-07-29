@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/6-BHK-3000-Sq-ft-Residential-House-FOR-Sale-Mettuguda-in-Hyderabad&id=4d423637313830343031",
+    "url": "https://www.magicbricks.com/propertyDetails/6-BHK-3000-Sq-ft-Residential-House-FOR-Sale-Mettuguda-in-Hyderabad&id=4d423637313830343031",
+    "numberOfRooms": "6",
+    "name": "6 BHK  House for Sale in Mettuguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4333365277906",
+        "longitude": "78.521913346596"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "SET CORPORATION INDIA"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mettuguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

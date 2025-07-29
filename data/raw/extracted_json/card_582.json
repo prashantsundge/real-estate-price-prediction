@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1345-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423738333938383133",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1345-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423738333938383133",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/15/Photo_h180_w240/78398813_1_1742022699200-0120_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Nallagandla Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4633553",
+        "longitude": "78.306611"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Rituraj Pandey"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

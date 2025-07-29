@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1500-Sq-ft-Multistorey-Apartment-FOR-Sale-Nagole-in-Hyderabad&id=4d423731383937383235",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1500-Sq-ft-Multistorey-Apartment-FOR-Sale-Nagole-in-Hyderabad&id=4d423731383937383235",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Mar/16/Photo_h180_w240/71897825_7_MG20240316WA0008_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Nagole Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3647205",
+        "longitude": "78.5665472"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Prasanta Patro"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nagole",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

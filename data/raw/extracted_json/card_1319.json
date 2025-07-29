@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1450-Sq-ft-Residential-House-FOR-Sale-Shamirpet-in-Hyderabad&id=4d423638353332353439",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1450-Sq-ft-Residential-House-FOR-Sale-Shamirpet-in-Hyderabad&id=4d423638353332353439",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Aug/09/Photo_h180_w240/64f224f2-169e-479f-9ed6-600d440adf53_68532549_180_240.jpg",
+    "name": "3 BHK  House for Sale in Shamirpet Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.657222",
+        "longitude": "78.601076"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Divya"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Shamirpet",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

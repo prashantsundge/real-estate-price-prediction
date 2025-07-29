@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2700-Sq-ft-Residential-House-FOR-Sale-in-Hyderabad&id=4d423639313435393033",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2700-Sq-ft-Residential-House-FOR-Sale-in-Hyderabad&id=4d423639313435393033",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Sep/19/Photo_h180_w240/69145903_2_MAGE1_180_240.jpeg",
+    "name": "3 BHK  House for Sale in Ram Bagh Colony Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "VISHNU"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1200-Sq-ft-Multistorey-Apartment-FOR-Sale-IDL-Access-Road-in-Hyderabad&id=4d423738313137383031",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1200-Sq-ft-Multistorey-Apartment-FOR-Sale-IDL-Access-Road-in-Hyderabad&id=4d423738313137383031",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/11/Photo_h180_w240/78117801_3_PropertyImage1741692231334_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in IDL Access Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.49460667",
+        "longitude": "78.388865"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "shiva shanker Narsanolla"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "IDL Access Road",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

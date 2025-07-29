@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1425-Sq-ft-Multistorey-Apartment-FOR-Sale-Nacharam-in-Hyderabad&id=4d423638353235313031",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1425-Sq-ft-Multistorey-Apartment-FOR-Sale-Nacharam-in-Hyderabad&id=4d423638353235313031",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/Project-Photo-1-Raheja-Vistas-Hyderabad-5040715_579_1155_310_462.jpg",
+    "name": "3 BHK Apartment for Sale in Nacharam Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4334244",
+        "longitude": "78.5617509"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Kishore"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nacharam",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

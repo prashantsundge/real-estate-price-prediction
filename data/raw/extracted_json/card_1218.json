@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1500-Sq-ft-Residential-House-FOR-Sale-Sangeet-Nagar-in-Hyderabad&id=4d423634363133313031",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1500-Sq-ft-Residential-House-FOR-Sale-Sangeet-Nagar-in-Hyderabad&id=4d423634363133313031",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Dec/13/Photo_h180_w240/64613101_7_1670903175990-01596_180_240.jpg",
+    "name": "2 BHK  House for Sale in Sangeet Nagar Somajiguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.484575271606445",
+        "longitude": "78.42049407958984"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "gangadhar"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sangeet Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

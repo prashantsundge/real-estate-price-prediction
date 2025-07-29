@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-2400-Sq-ft-Residential-House-FOR-Sale-Kundanpally-in-Hyderabad&id=4d423733383435303937",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-2400-Sq-ft-Residential-House-FOR-Sale-Kundanpally-in-Hyderabad&id=4d423733383435303937",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Jul/15/Photo_h180_w240/73845097_7_20230806070223_180_240.jpg",
+    "name": "4 BHK  House for Sale in Kundanpally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.496297",
+        "longitude": "78.625137"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Narendra"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

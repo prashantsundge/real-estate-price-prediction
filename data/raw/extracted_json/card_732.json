@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-2500-Sq-ft-Residential-House-FOR-Sale-Alwal-in-Hyderabad&id=4d423730313534313935",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-2500-Sq-ft-Residential-House-FOR-Sale-Alwal-in-Hyderabad&id=4d423730313534313935",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Nov/23/Photo_h180_w240/70154195_1_PropertyImage247-75831696823235_180_240.jpg",
+    "name": "2 BHK  House for Sale in Alwal Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.498712",
+        "longitude": "78.4966309"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "ujwal"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Alwal",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

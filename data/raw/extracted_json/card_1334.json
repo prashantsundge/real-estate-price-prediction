@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2450-Sq-ft-Multistorey-Apartment-FOR-Sale-Saroornagar-in-Hyderabad&id=4d423434353536383537",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2450-Sq-ft-Multistorey-Apartment-FOR-Sale-Saroornagar-in-Hyderabad&id=4d423434353536383537",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2019/Sep/05/Photo_h180_w240/44556857_14_PropertyImage1567663053628_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Saroornagar, NH 9 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.36017417907715",
+        "longitude": "78.53919982910156"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Kub Reddy"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saroornagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

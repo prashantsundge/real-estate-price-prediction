@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1490-Sq-ft-Multistorey-Apartment-FOR-Sale-Mayuri-Nagar-Bachupally-in-Hyderabad&id=4d423739393334343433",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1490-Sq-ft-Multistorey-Apartment-FOR-Sale-Mayuri-Nagar-Bachupally-in-Hyderabad&id=4d423739393334343433",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/24/Photo_h180_w240/79934443_1_PropertyImage1750778286575_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Mayuri Nagar Bachupally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5210925",
+        "longitude": "78.3442965"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "O Nagakumari"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mayuri Nagar Bachupally",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

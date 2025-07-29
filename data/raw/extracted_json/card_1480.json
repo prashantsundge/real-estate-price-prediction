@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1580-Sq-ft-Multistorey-Apartment-FOR-Sale-Rajendra-Nagar-in-Hyderabad&id=4d423739333238393535",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1580-Sq-ft-Multistorey-Apartment-FOR-Sale-Rajendra-Nagar-in-Hyderabad&id=4d423739333238393535",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/May/08/Photo_h180_w240/79328955_14_PropertyImage254-68978540557606_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Rajendranagar Mandal Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.308096",
+        "longitude": "78.39665"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Rohit Attal"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rajendranagar Mandal",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

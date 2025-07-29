@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1839-Sq-ft-Multistorey-Apartment-FOR-Sale-Ameenpur-in-Hyderabad&id=4d423736303738313633",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1839-Sq-ft-Multistorey-Apartment-FOR-Sale-Ameenpur-in-Hyderabad&id=4d423736303738313633",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Nov/20/Photo_h180_w240/76078163_1_PropertyImage384-7274173819687_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Ameenpur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5265125876332",
+        "longitude": "78.3316496153237"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "ruthvik"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

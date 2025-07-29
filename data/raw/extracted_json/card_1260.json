@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-167-Sq-yrd-Residential-House-FOR-Sale-in-Hyderabad&id=4d423735393439343933",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-167-Sq-yrd-Residential-House-FOR-Sale-in-Hyderabad&id=4d423735393439343933",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Nov/12/Photo_h180_w240/75949493_4_1731410320732-45_180_240.jpg",
+    "name": "3 BHK  House for Sale in Brundavan meadows, Vanasthalipuram Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Sravanthi"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

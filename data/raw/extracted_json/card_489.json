@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1430-Sq-ft-Multistorey-Apartment-FOR-Sale-Yapral-in-Hyderabad&id=4d423734373837383937",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1430-Sq-ft-Multistorey-Apartment-FOR-Sale-Yapral-in-Hyderabad&id=4d423734373837383937",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Sep/30/Photo_h180_w240/74787897_17_PropertyImage1727713853812_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Yapral Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5117882",
+        "longitude": "78.5170719"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Neelakantam"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Yapral",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

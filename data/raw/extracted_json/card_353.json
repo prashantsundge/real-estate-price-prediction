@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1572-Sq-ft-Multistorey-Apartment-FOR-Sale-Kondapur-in-Hyderabad&id=4d423738333638333737",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1572-Sq-ft-Multistorey-Apartment-FOR-Sale-Kondapur-in-Hyderabad&id=4d423738333638333737",
+    "numberOfRooms": "2",
+    "name": "2 BHK Apartment for Sale in Kondapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.46613883972168",
+        "longitude": "78.35740661621094"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "MagicBricks User"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kondapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-1800-Sq-ft-Multistorey-Apartment-FOR-Sale-Diamond-Hills-Colony-in-Hyderabad&id=4d423734303436373931",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-1800-Sq-ft-Multistorey-Apartment-FOR-Sale-Diamond-Hills-Colony-in-Hyderabad&id=4d423734303436373931",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Jul/27/Photo_h180_w240/74046791_7_MG20240517WA0007_180_240.jpg",
+    "name": "4 BHK Apartment for Sale in Diamond Hills Colony Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.39542217",
+        "longitude": "78.39087559"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "S Siddiqui"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

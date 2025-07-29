@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1404-Sq-ft-Residential-House-FOR-Sale-Hayathnagar-in-Hyderabad&id=4d423733323839303031",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1404-Sq-ft-Residential-House-FOR-Sale-Hayathnagar-in-Hyderabad&id=4d423733323839303031",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Jun/13/Photo_h180_w240/73289001_5_PropertyImage869-1506714015408_180_240.jpg",
+    "name": "2 BHK  House for Sale in Hayathnagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.31230175",
+        "longitude": "78.72514669"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Vijayakumar B"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hayathnagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

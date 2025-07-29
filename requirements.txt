@@ -16,6 +16,9 @@ webdriver-manager
 pyodbc
 sqlalchemy
 mysql-connector-python
+pymysql
+cryptography
+
 #machine Learning 
 scikit-learn
 xgboost

@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2085-Sq-ft-Multistorey-Apartment-FOR-Sale-Dulapally-in-Hyderabad&id=4d423739303733383435",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2085-Sq-ft-Multistorey-Apartment-FOR-Sale-Dulapally-in-Hyderabad&id=4d423739303733383435",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/04/23/Project-Photo-14-Sunyuga-Vantara-Hyderabad-5430729_900_1600_310_462.jpg",
+    "name": "undefined",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5529155243679",
+        "longitude": "78.4609483667259"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Organization",
+            "name": "SUNYUGA"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

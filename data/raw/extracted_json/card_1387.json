@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1550-Sq-ft-Multistorey-Apartment-FOR-Sale-Raja-Rajeshwara-Nagar-in-Hyderabad&id=4d423733363937313635",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1550-Sq-ft-Multistorey-Apartment-FOR-Sale-Raja-Rajeshwara-Nagar-in-Hyderabad&id=4d423733363937313635",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Jul/06/Photo_h180_w240/73697165_8_MG20240706191505_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Raja Rajeshwara Nagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4687224",
+        "longitude": "78.3534927"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "pavan"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Raja Rajeshwara Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

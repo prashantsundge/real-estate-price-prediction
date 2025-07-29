@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1450-Sq-ft-Multistorey-Apartment-FOR-Sale-Abids-in-Hyderabad&id=4d423731393733363337",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1450-Sq-ft-Multistorey-Apartment-FOR-Sale-Abids-in-Hyderabad&id=4d423731393733363337",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/May/03/Photo_h180_w240/71973637_2_PropertyImage1714755076460_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Abids, NH 7 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.397268295288086",
+        "longitude": "78.59671783447266"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Syed Aqib"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Abids",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

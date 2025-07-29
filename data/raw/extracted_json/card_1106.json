@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/5-BHK-1250-Sq-ft-Residential-House-FOR-Sale-Jagathgiri-Gutta-in-Hyderabad&id=4d423635313737383439",
+    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-1250-Sq-ft-Residential-House-FOR-Sale-Jagathgiri-Gutta-in-Hyderabad&id=4d423635313737383439",
+    "numberOfRooms": "5",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jan/18/Photo_h180_w240/65177849_2_PropertyImage258-61002099224464_180_240.jpg",
+    "name": "5 BHK  House for Sale in Jagathgiri Gutta Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.507179260253906",
+        "longitude": "78.41885375976562"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "yashwanth automation"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

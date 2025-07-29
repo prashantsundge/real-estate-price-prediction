@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1865-Sq-ft-Multistorey-Apartment-FOR-Sale-Manjeera-Pipeline-Road-in-Hyderabad&id=4d423737363739323939",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1865-Sq-ft-Multistorey-Apartment-FOR-Sale-Manjeera-Pipeline-Road-in-Hyderabad&id=4d423737363739323939",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/01/Photo_h180_w240/77679299_7_PropertyImage1740849802614_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Manjeera Pipeline Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.491567480099857",
+        "longitude": "78.34247647795978"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "CHAITANYA k"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Manjeera Pipeline Road",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1250-Sq-ft-Multistorey-Apartment-FOR-Sale-Jubilee-Hills-in-Hyderabad&id=4d423736353338373335",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1250-Sq-ft-Multistorey-Apartment-FOR-Sale-Jubilee-Hills-in-Hyderabad&id=4d423736353338373335",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/03/Photo_h180_w240/76538735_8_PropertyImage324-282329092361_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Jubilee Hills Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4322747",
+        "longitude": "78.4097715"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Krishna kanth"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Jubilee Hills",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

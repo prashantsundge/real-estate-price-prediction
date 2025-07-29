@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1700-Sq-ft-Residential-House-FOR-Sale-Adibatla-in-Hyderabad&id=4d423638323531303337",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1700-Sq-ft-Residential-House-FOR-Sale-Adibatla-in-Hyderabad&id=4d423638323531303337",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jul/22/Photo_h180_w240/68251037_2_Entrance_180_240.jpeg",
+    "name": "2 BHK  House for Sale in Adibatla Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.2343752",
+        "longitude": "78.543781"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "ADITYA GIRIRAJ"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Adibatla",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

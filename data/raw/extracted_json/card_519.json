@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-150-Sq-yrd-Residential-House-FOR-Sale-Southend-Park-in-Hyderabad&id=4d423737323235313533",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-150-Sq-yrd-Residential-House-FOR-Sale-Southend-Park-in-Hyderabad&id=4d423737323235313533",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jan/21/Photo_h180_w240/77225153_3_IMG20230608WA0004_180_240.jpg",
+    "name": "2 BHK  House for Sale in Southend Park, Mansoorabad, NH 9 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3526471234455",
+        "longitude": "78.5705721683461"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Rajasekhar"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Southend Park",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

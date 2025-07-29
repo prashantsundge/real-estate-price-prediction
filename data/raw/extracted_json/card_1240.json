@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-200-Sq-yrd-Residential-House-FOR-Sale-Turkayamjal-in-Hyderabad&id=4d423637323539353733",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-200-Sq-yrd-Residential-House-FOR-Sale-Turkayamjal-in-Hyderabad&id=4d423637323539353733",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Oct/31/Photo_h180_w240/67259573_5_MG2023101713235974_180_240.jpg",
+    "name": "3 BHK  House for Sale in Turkayamjal Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.269470971736396",
+        "longitude": "78.59182206793973"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "vishnu"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Turkayamjal",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1315-Sq-ft-Multistorey-Apartment-FOR-Sale-Acharya-Ng-Ranga-Agricultural-University-in-Hyderabad&id=4d423732313133323935",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1315-Sq-ft-Multistorey-Apartment-FOR-Sale-Acharya-Ng-Ranga-Agricultural-University-in-Hyderabad&id=4d423732313133323935",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/May/02/Photo_h180_w240/72113295_12_PropertyImage1714653600039_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Acharya Ng Ranga Agricultural University, Rajendra Nagar, NH 7 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.342241287231445",
+        "longitude": "78.36292266845703"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Dr Swathi M"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Acharya Ng Ranga Agricultural University",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

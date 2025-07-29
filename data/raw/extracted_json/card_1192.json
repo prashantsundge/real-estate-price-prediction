@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1955-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423737303838393931",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1955-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423737303838393931",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jan/16/Photo_h180_w240/77088991_5_BANQUETHALL_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in CSK SKYSCAPE Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Chaitanya"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

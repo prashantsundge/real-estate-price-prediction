@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-2800-Sq-ft-Residential-House-FOR-Sale-Dammaiguda-in-Hyderabad&id=4d423637323135323139",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-2800-Sq-ft-Residential-House-FOR-Sale-Dammaiguda-in-Hyderabad&id=4d423637323135323139",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/May/25/Photo_h180_w240/67215219_7_MG8451_180_240.jpg",
+    "name": "2 BHK  House for Sale in Dammaiguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.50124740600586",
+        "longitude": "78.59972381591797"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "RAVI KUMAR"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dammaiguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

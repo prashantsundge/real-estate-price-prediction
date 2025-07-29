@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1998-Sq-ft-Multistorey-Apartment-FOR-Sale-Kondapur-in-Hyderabad&id=4d423732303231373331",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1998-Sq-ft-Multistorey-Apartment-FOR-Sale-Kondapur-in-Hyderabad&id=4d423732303231373331",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/Project-Photo-5-Mahaveer-House--Hyderabad-5077640_972_1296_310_462.JPEG",
+    "name": "3 BHK Apartment for Sale in Kondapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4515474",
+        "longitude": "78.364745"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "B thirumala rao reddy "
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kondapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1556-Sq-ft-Multistorey-Apartment-FOR-Sale-Amberpet-in-Hyderabad&id=4d423732303235353731",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1556-Sq-ft-Multistorey-Apartment-FOR-Sale-Amberpet-in-Hyderabad&id=4d423732303235353731",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Mar/26/Photo_h180_w240/72025571_6_0240321163136_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Amberpet Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4008705",
+        "longitude": "78.5227905"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Gopala Krishna Kanuri"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Amberpet",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

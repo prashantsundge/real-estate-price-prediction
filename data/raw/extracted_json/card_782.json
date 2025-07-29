@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1260-Sq-ft-Residential-House-FOR-Sale-Injapur-in-Hyderabad&id=4d423638333139303239",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1260-Sq-ft-Residential-House-FOR-Sale-Injapur-in-Hyderabad&id=4d423638333139303239",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Sep/22/Photo_h180_w240/9296_20230917155342_180_240.jpg",
+    "name": "2 BHK  House for Sale in Injapur, Neeladri Nagar, Ibrahimpatnam Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.296567",
+        "longitude": "78.589926"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "9059504745"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Injapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

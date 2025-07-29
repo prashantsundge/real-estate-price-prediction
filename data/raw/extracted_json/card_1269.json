@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1800-Sq-ft-Multistorey-Apartment-FOR-Sale-Kompally-in-Hyderabad&id=4d423731313032313633",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1800-Sq-ft-Multistorey-Apartment-FOR-Sale-Kompally-in-Hyderabad&id=4d423731313032313633",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Jan/27/Photo_h180_w240/71102163_1_WhatsApp-Image-2024-01-27-at-4-55-17-PM--1-_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Kompally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5425945515091",
+        "longitude": "78.4822910638784"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Mitra"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kompally",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

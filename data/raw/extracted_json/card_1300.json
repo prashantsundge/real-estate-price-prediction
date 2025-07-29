@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1800-Sq-ft-Multistorey-Apartment-FOR-Sale-East-Anandbagh-in-Hyderabad&id=4d423734383639353935",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1800-Sq-ft-Multistorey-Apartment-FOR-Sale-East-Anandbagh-in-Hyderabad&id=4d423734383639353935",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Sep/12/Photo_h180_w240/74869595_3_1726150084275-434_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in East Anandbagh Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.45615005493164",
+        "longitude": "78.54615783691406"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "rohan"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

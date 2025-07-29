@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1560-Sq-ft-Multistorey-Apartment-FOR-Sale-Nanakram-Guda-in-Hyderabad&id=4d423637373233303037",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1560-Sq-ft-Multistorey-Apartment-FOR-Sale-Nanakram-Guda-in-Hyderabad&id=4d423637373233303037",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Feb/24/Photo_h180_w240/67723007_13_PropertyImage1708787312055_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Nanakaramguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.412543",
+        "longitude": "78.337875"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Udaya"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nanakram Guda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

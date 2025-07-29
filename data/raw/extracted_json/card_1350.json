@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1790-Sq-ft-Builder-Floor-Apartment-FOR-Sale-Medipally-in-Hyderabad&id=4d423731393533373333",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1790-Sq-ft-Builder-Floor-Apartment-FOR-Sale-Medipally-in-Hyderabad&id=4d423731393533373333",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/Project-Photo-2-Pragati-NJR-KLRs-Nagar-Hyderabad-5032342_535_800_310_462.jpg",
+    "name": "3 BHK Builder Floor for Sale in Medipally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.407501",
+        "longitude": "78.601657"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "madhav"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Medipally",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

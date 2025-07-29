@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1680-Sq-ft-Multistorey-Apartment-FOR-Sale-Narsingi-in-Hyderabad&id=4d423537363039323133",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1680-Sq-ft-Multistorey-Apartment-FOR-Sale-Narsingi-in-Hyderabad&id=4d423537363039323133",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/01/Photo_h180_w240/57609213_5_PropertyImage1740836245191_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Narsingi, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3905539",
+        "longitude": "78.3572039"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Hari"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Narsingi",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

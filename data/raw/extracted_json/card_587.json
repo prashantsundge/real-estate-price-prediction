@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1279-Sq-ft-Multistorey-Apartment-FOR-Sale-New-Nallakunta-in-Hyderabad&id=4d423830313432303233",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1279-Sq-ft-Multistorey-Apartment-FOR-Sale-New-Nallakunta-in-Hyderabad&id=4d423830313432303233",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/23/Photo_h180_w240/80142023_2_IMG2950_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in New Nallakunta Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.394505",
+        "longitude": "78.507722"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "T SRINIVAS"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "New Nallakunta",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

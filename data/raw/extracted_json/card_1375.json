@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/6-BHK-1000-Sq-ft-Residential-House-FOR-Sale-Quthbullapur-in-Hyderabad&id=4d423637373736393837",
+    "url": "https://www.magicbricks.com/propertyDetails/6-BHK-1000-Sq-ft-Residential-House-FOR-Sale-Quthbullapur-in-Hyderabad&id=4d423637373736393837",
+    "numberOfRooms": "6",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jul/08/Photo_h180_w240/147_IMG20210831WA0039_180_240.jpg",
+    "name": "6 BHK  House for Sale in Quthbullapur, NH 7 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.498326",
+        "longitude": "78.4636455"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Jhansi Kavvam"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Quthbullapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

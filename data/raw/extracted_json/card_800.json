@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1985-Sq-ft-Multistorey-Apartment-FOR-Sale-Suchitra-in-Hyderabad&id=4d423739373137323235",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1985-Sq-ft-Multistorey-Apartment-FOR-Sale-Suchitra-in-Hyderabad&id=4d423739373137323235",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/May/27/Photo_h180_w240/79717225_3_WhatsApp-Image-2025-05-27_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Suchitra Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.502304077148438",
+        "longitude": "78.47151947021484"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Vijay DeeP"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

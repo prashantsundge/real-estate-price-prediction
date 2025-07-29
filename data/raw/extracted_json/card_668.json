@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1645-Sq-ft-Multistorey-Apartment-FOR-Sale-Boduppal-in-Hyderabad&id=4d423630303836313133",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1645-Sq-ft-Multistorey-Apartment-FOR-Sale-Boduppal-in-Hyderabad&id=4d423630303836313133",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Mar/29/Photo_h180_w240/60086113_17_PropertyImage1648574304119_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Boduppal, NH 2 2 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4117293",
+        "longitude": "78.5857782"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Santharam"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Boduppal",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

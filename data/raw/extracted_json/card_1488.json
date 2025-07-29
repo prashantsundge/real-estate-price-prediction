@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1285-Sq-ft-Multistorey-Apartment-FOR-Sale-Vivekanandapuram-Colony-in-Hyderabad&id=4d423830333336343139",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1285-Sq-ft-Multistorey-Apartment-FOR-Sale-Vivekanandapuram-Colony-in-Hyderabad&id=4d423830333336343139",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/11/Photo_h180_w240/9618_80336419_photos_magicbricks_20250711100458_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Vivekanandapuram Colony Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4885189",
+        "longitude": "78.5277843"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Sonali Patra"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

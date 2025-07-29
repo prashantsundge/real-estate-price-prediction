@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1500-Sq-ft-Villa-FOR-Sale-in-Hyderabad&id=4d423734383939353235",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1500-Sq-ft-Villa-FOR-Sale-in-Hyderabad&id=4d423734383939353235",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Sep/14/Photo_h180_w240/74899525_10_1726303041843-165811_180_240.jpg",
+    "name": "3 BHK Villa for Sale in MallikarjunaNagar Beeramguda Kaman Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Ram Mohan"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

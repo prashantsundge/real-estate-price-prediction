@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1107-Sq-ft-Residential-House-FOR-Sale-LB-Nagar-in-Hyderabad&id=4d423830353137343137",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1107-Sq-ft-Residential-House-FOR-Sale-LB-Nagar-in-Hyderabad&id=4d423830353137343137",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/17/Photo_h180_w240/80517417_1_PropertyImage606-0463181038707_180_240.jpg",
+    "name": "2 BHK  House for Sale in LB Nagar, NH 9 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3583282966385",
+        "longitude": "78.5525463574341"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "ArvindH Yadav"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "LB Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

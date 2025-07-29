@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1690-Sq-ft-Multistorey-Apartment-FOR-Sale-Prashant-Hills-in-Hyderabad&id=4d423536333436373231",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1690-Sq-ft-Multistorey-Apartment-FOR-Sale-Prashant-Hills-in-Hyderabad&id=4d423536333436373231",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/01/Photo_h180_w240/56346721_18_PropertyImage503-4776921839448_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Prashant Hills, Rai Durg Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.420656204223633",
+        "longitude": "78.38202667236328"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Satish"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Prashant Hills",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

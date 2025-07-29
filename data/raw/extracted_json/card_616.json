@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1695-Sq-ft-Multistorey-Apartment-FOR-Sale-Kondapur-in-Hyderabad&id=4d423737393438353439",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1695-Sq-ft-Multistorey-Apartment-FOR-Sale-Kondapur-in-Hyderabad&id=4d423737393438353439",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/02/24/Project-Photo-1-Jaswitha-Cyber-Nest-Hyderabad-5428389_410_1440_310_462.jpg",
+    "name": "undefined",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.47206460877739",
+        "longitude": "78.33805119246138"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Organization",
+            "name": "Jaswitha Constructions"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kondapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

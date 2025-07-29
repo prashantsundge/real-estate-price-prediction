@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/6-BHK-3000-Sq-ft-Multistorey-Apartment-FOR-Sale-Rameshwar-Banda-in-Hyderabad&id=4d423539313731383035",
+    "url": "https://www.magicbricks.com/propertyDetails/6-BHK-3000-Sq-ft-Multistorey-Apartment-FOR-Sale-Rameshwar-Banda-in-Hyderabad&id=4d423539313731383035",
+    "numberOfRooms": "6",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Jan/29/Photo_h180_w240/59171805_7_MG-20220125-WA0089_180_240.jpg",
+    "name": "6 BHK Apartment for Sale in Rameshwar Banda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.559335",
+        "longitude": "78.280526"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "prasad"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rameshwar Banda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-133-Sq-yrd-Residential-House-FOR-Sale-Chengicherla-in-Hyderabad&id=4d423738333930313933",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-133-Sq-yrd-Residential-House-FOR-Sale-Chengicherla-in-Hyderabad&id=4d423738333930313933",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/14/Photo_h180_w240/78390193_1_1741918250433-012_180_240.jpg",
+    "name": "4 BHK  House for Sale in Chengicherla Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.43998146057129",
+        "longitude": "78.60028839111328"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "srinadh"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

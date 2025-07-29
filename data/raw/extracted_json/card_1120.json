@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1360-Sq-ft-Multistorey-Apartment-FOR-Sale-Gachibowli-in-Hyderabad&id=4d423731393330333131",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1360-Sq-ft-Multistorey-Apartment-FOR-Sale-Gachibowli-in-Hyderabad&id=4d423731393330333131",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2024/04/21/Project-Photo-76-Pacifica-Hillcrest-Hyderabad-5051468_575_1280_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in Gachibowli Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.443563",
+        "longitude": "78.3397746"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Pavan"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gachibowli",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

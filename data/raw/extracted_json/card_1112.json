@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1780-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423730303539353931",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1780-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423730303539353931",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Nov/17/Photo_h180_w240/70059591_4_tyapagestojpg0002_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Snehita Hills TSPA Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "monika"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

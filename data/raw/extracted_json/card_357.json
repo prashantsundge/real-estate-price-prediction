@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2100-Sq-ft-Multistorey-Apartment-FOR-Sale-ZP-Road-in-Hyderabad&id=4d423739393335393831",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2100-Sq-ft-Multistorey-Apartment-FOR-Sale-ZP-Road-in-Hyderabad&id=4d423739393335393831",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/19/Photo_h180_w240/79935981_5_PropertyImage1750349048198_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in ZP Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.343915939331055",
+        "longitude": "78.37947082519531"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Srikar"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "ZP Road",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

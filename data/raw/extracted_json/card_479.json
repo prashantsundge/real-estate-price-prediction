@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1635-Sq-ft-Multistorey-Apartment-FOR-Sale-Attapur-in-Hyderabad&id=4d423739393037323237",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1635-Sq-ft-Multistorey-Apartment-FOR-Sale-Attapur-in-Hyderabad&id=4d423739393037323237",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/11/Photo_h180_w240/79907227_17_PropertyImage1749634946918_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Attapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3679283037609",
+        "longitude": "78.4317103301914"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Gowtami"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Attapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

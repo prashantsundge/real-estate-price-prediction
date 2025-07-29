@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1585-Sq-ft-Villa-FOR-Sale-Kowkur-in-Hyderabad&id=4d423830343431323339",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1585-Sq-ft-Villa-FOR-Sale-Kowkur-in-Hyderabad&id=4d423830343431323339",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/12/Photo_h180_w240/80441239_2_1594794228CricketNet_180_240.jpg",
+    "name": "3 BHK Villa for Sale in Kowkoor Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5327605966151",
+        "longitude": "78.5362865054776"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "KSR SRINIVAS"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kowkur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

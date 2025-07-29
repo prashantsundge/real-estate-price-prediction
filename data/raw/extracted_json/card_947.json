@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1520-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423633363231383633",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1520-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423633363231383633",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Oct/12/Photo_h180_w240/63621863_6_PropertyImage732-1144884744377_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in vishnuteja gulmohar residency puppalguda Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Kishor Sharma"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

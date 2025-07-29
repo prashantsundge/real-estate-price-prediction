@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-217-Sq-yrd-Residential-House-FOR-Sale-Parvathapur-in-Hyderabad&id=4d423636303338323235",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-217-Sq-yrd-Residential-House-FOR-Sale-Parvathapur-in-Hyderabad&id=4d423636303338323235",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Mar/13/Photo_h180_w240/66038225_4_HOTO202303131145584_180_240.jpg",
+    "name": "3 BHK  House for Sale in Parvathapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3969813259549",
+        "longitude": "78.6157122475114"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "chandana"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Parvathapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-167-Sq-yrd-Residential-House-FOR-Sale-Srivani-Nagar-in-Hyderabad&id=4d423734393136383035",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-167-Sq-yrd-Residential-House-FOR-Sale-Srivani-Nagar-in-Hyderabad&id=4d423734393136383035",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Sep/15/Photo_h180_w240/74916805_1_PropertyImage731-1066102212262_180_240.jpg",
+    "name": "2 BHK  House for Sale in Srivani Nagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.523043",
+        "longitude": "78.3425849"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "nagesh magapu"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Srivani Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

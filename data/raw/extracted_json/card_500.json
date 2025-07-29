@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1630-Sq-ft-Multistorey-Apartment-FOR-Sale-Miyapur-in-Hyderabad&id=4d423638313935353337",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1630-Sq-ft-Multistorey-Apartment-FOR-Sale-Miyapur-in-Hyderabad&id=4d423638313935353337",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/01/13/Project-Photo-18-Silpas-RV-Dharmista-Hyderabad-5126557_1080_1440_310_462.jpg",
+    "name": "3 BHK Apartment for Sale in Miyapur, NH 9 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5210925",
+        "longitude": "78.3442965"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "indranil mukherjee"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Miyapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

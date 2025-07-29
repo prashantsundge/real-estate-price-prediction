@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-5000-Sq-ft-Residential-House-FOR-Sale-Parvathapur-in-Hyderabad&id=4d423634383230313037",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-5000-Sq-ft-Residential-House-FOR-Sale-Parvathapur-in-Hyderabad&id=4d423634383230313037",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Dec/27/Photo_h180_w240/64820107_4_PropertyImage12-276036908030807_180_240.jpg",
+    "name": "2 BHK  House for Sale in Parvathapur Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3969813259549",
+        "longitude": "78.6157122475114"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Mounika"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Parvathapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

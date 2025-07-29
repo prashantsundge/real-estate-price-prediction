@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1940-Sq-ft-Residential-House-FOR-Sale-Kazipally-Medak-in-Hyderabad&id=4d423732393634323435",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1940-Sq-ft-Residential-House-FOR-Sale-Kazipally-Medak-in-Hyderabad&id=4d423732393634323435",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/May/30/Photo_h180_w240/72964245_5_MG20240526095109517HDR_180_240.jpg",
+    "name": "3 BHK  House for Sale in Kazipally Medak Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "18.013591766357422",
+        "longitude": "78.31892395019531"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Shyam Shyam"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kazipally Medak",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1385-Sq-ft-Multistorey-Apartment-FOR-Sale-Ameerpet-in-Hyderabad&id=4d423732313931383235",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1385-Sq-ft-Multistorey-Apartment-FOR-Sale-Ameerpet-in-Hyderabad&id=4d423732313931383235",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Apr/05/Photo_h180_w240/72191825_3_WhatsAppImage20240312at12.57.056e3c9872_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Ameerpet Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.14897987",
+        "longitude": "78.34238191"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Sudheer"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

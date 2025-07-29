@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1754-Sq-ft-Multistorey-Apartment-FOR-Sale-Satyam-Enclave-in-Hyderabad&id=4d423732373839343931",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1754-Sq-ft-Multistorey-Apartment-FOR-Sale-Satyam-Enclave-in-Hyderabad&id=4d423732373839343931",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/May/13/Photo_h180_w240/72789491_2_Image20240419162513_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Satyam Enclave, Komapally, NH 7 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.526880264282227",
+        "longitude": "78.4800033569336"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "RAJKUMAR"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Satyam Enclave",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

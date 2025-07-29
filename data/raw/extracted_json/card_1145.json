@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1360-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423631323334313839",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1360-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423631323334313839",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/May/25/Photo_h180_w240/61234189_5_MG_20220525_123449284_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Shyam Arcade Apartment Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Ravikant"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

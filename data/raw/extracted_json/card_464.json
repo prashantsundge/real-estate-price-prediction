@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1800-Sq-ft-Multistorey-Apartment-FOR-Sale-Sardar-Patel-Nagar-in-Hyderabad&id=4d423739303332383639",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1800-Sq-ft-Multistorey-Apartment-FOR-Sale-Sardar-Patel-Nagar-in-Hyderabad&id=4d423739303332383639",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Apr/21/Photo_h180_w240/79032869_1_PropertyImage626-3637743632481_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Sardar Patel Nagar Kukatpally Housing Board Colony Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.496150263879",
+        "longitude": "78.3895432272536"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Murali Krishna  Reddy"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sardar Patel Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

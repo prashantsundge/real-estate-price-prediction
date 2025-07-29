@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1800-Sq-ft-Residential-House-FOR-Sale-Balanagar-in-Hyderabad&id=4d423637323230323333",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1800-Sq-ft-Residential-House-FOR-Sale-Balanagar-in-Hyderabad&id=4d423637323230323333",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/May/26/Photo_h180_w240/8175_IMG20230525210929_180_240.jpg",
+    "name": "3 BHK  House for Sale in Balanagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4776099",
+        "longitude": "78.4446202"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Kamal Choudhary"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Balanagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

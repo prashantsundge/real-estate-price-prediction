@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1850-Sq-ft-Multistorey-Apartment-FOR-Sale-Sainikpuri-Cross-Road-in-Hyderabad&id=4d423830303137383035",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1850-Sq-ft-Multistorey-Apartment-FOR-Sale-Sainikpuri-Cross-Road-in-Hyderabad&id=4d423830303137383035",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/28/Photo_h180_w240/80017805_11_PropertyImage1751128417044_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Sainikpuri Cross Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.34392547607422",
+        "longitude": "78.37942504882812"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "MbUser"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sainikpuri Cross Road",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

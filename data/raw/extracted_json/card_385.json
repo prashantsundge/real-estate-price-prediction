@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1600-Sq-ft-Multistorey-Apartment-FOR-Sale-Malakpet-in-Hyderabad&id=4d423736383031343631",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1600-Sq-ft-Multistorey-Apartment-FOR-Sale-Malakpet-in-Hyderabad&id=4d423736383031343631",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jan/01/Photo_h180_w240/76801461_8_edroom3_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Malakpet, NH 9 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3722659",
+        "longitude": "78.489792"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Vinay"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Malakpet",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

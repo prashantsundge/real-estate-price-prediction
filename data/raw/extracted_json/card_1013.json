@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1285-Sq-ft-Multistorey-Apartment-FOR-Sale-RamNaresh-Nagar-in-Hyderabad&id=4d423738303434363931",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1285-Sq-ft-Multistorey-Apartment-FOR-Sale-RamNaresh-Nagar-in-Hyderabad&id=4d423738303434363931",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Mar/01/Photo_h180_w240/78044691_5_ntrance_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in RamNaresh Nagar, Hyder Nagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5023011",
+        "longitude": "78.3827995"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Parandham Jaddu"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "RamNaresh Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1407-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423830343534363135",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1407-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Hyderabad&id=4d423830343534363135",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/14/Photo_h180_w240/80454615_3_MG20240725919849225672s.whatsapp.net6d451ef7f032404e8032ad7380c0a4ba_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Kanchan Bagh, Hyderabad Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "umesh"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

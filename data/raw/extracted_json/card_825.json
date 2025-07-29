@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1985-Sq-ft-Multistorey-Apartment-FOR-Sale-Suchitra-Circle-in-Hyderabad&id=4d423633303430303535",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1985-Sq-ft-Multistorey-Apartment-FOR-Sale-Suchitra-Circle-in-Hyderabad&id=4d423633303430303535",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/Project-Photo-30-Shweta-Aryan-Hyderabad-5018117_972_1296_310_462.JPEG",
+    "name": "3 BHK Apartment for Sale in Suchitra Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.512324128895",
+        "longitude": "78.4668230996977"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "rugmani"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Suchitra Circle",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

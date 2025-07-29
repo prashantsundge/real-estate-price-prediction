@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1566-Sq-ft-Residential-House-FOR-Sale-Nagaram-Main-Road-in-Hyderabad&id=4d423732303632353733",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1566-Sq-ft-Residential-House-FOR-Sale-Nagaram-Main-Road-in-Hyderabad&id=4d423732303632353733",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Mar/28/Photo_h180_w240/72062573_7_PropertyImage155-96755875427982_180_240.jpg",
+    "name": "2 BHK  House for Sale in Nagaram Main Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.49041555",
+        "longitude": "78.60000411"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Kiran Peram Kiran Peram"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nagaram Main Road",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/5-BHK-2900-Sq-ft-Residential-House-FOR-Sale-Kamalanagar-Moula-Ali-in-Hyderabad&id=4d423734363438383335",
+    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-2900-Sq-ft-Residential-House-FOR-Sale-Kamalanagar-Moula-Ali-in-Hyderabad&id=4d423734363438383335",
+    "numberOfRooms": "5",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Sep/01/Photo_h180_w240/74648835_1_PropertyImage271-57820999988667_180_240.jpg",
+    "name": "5 BHK  House for Sale in Kamalanagar Moula Ali Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.45733642578125",
+        "longitude": "78.56078338623047"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Dr B Kalpana"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kamalanagar Moula Ali",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

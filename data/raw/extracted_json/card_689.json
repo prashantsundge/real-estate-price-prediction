@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1529-Sq-ft-Multistorey-Apartment-FOR-Sale-Gachibowli-in-Hyderabad&id=4d423638313433373337",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1529-Sq-ft-Multistorey-Apartment-FOR-Sale-Gachibowli-in-Hyderabad&id=4d423638313433373337",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/Project-Photo-4-RV-Silpa-Hilltop-Hyderabad-5000465_1296_972_310_462.JPEG",
+    "name": "3 BHK Apartment for Sale in Gachibowli Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.439197",
+        "longitude": "78.367807"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Arjun Rathod"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gachibowli",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

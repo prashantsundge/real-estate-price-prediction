@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1260-Sq-ft-Multistorey-Apartment-FOR-Sale-Miyapur-in-Hyderabad&id=4d423730323030363239",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1260-Sq-ft-Multistorey-Apartment-FOR-Sale-Miyapur-in-Hyderabad&id=4d423730323030363239",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Nov/27/Photo_h180_w240/70200629_1_PropertyImage825-1126909154411_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Miyapur, NH 9 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.501038",
+        "longitude": "78.365594"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Ravi "
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Miyapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

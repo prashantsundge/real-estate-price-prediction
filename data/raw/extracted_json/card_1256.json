@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1575-Sq-ft-Multistorey-Apartment-FOR-Sale-Madinaguda-in-Hyderabad&id=4d423830343634393233",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1575-Sq-ft-Multistorey-Apartment-FOR-Sale-Madinaguda-in-Hyderabad&id=4d423830343634393233",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2022/02/16/Project-Photo-2-Fortune-Heights-Hyderabad-5172793_1280_960_310_462.jpg",
+    "name": "3 BHK Apartment for Sale in Madeenaguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4924001",
+        "longitude": "78.3417291"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "pranov"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Madinaguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

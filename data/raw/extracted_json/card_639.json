@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-150-Sq-yrd-Residential-House-FOR-Sale-Gandhamguda-Road-in-Hyderabad&id=4d423735313538343033",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-150-Sq-yrd-Residential-House-FOR-Sale-Gandhamguda-Road-in-Hyderabad&id=4d423735313538343033",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Sep/28/Photo_h180_w240/75158403_3_ABD397ABBC874E91A51FC3D1460A705A_180_240.jpeg",
+    "name": "2 BHK  House for Sale in Gandhamguda Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.37014389038086",
+        "longitude": "78.38396453857422"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Kajol Ganguly"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

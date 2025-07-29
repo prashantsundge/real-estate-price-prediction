@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2269-Sq-ft-Multistorey-Apartment-FOR-Sale-Dulapally-in-Hyderabad&id=4d423830363133393539",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2269-Sq-ft-Multistorey-Apartment-FOR-Sale-Dulapally-in-Hyderabad&id=4d423830363133393539",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/24/Photo_h180_w240/80613959_7_hatsAppImage20250412at2.27.24PM1_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Dulapally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5529155243679",
+        "longitude": "78.4609483667259"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "MOHAN REDDY T"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

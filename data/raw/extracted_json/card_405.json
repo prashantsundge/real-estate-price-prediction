@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1274-Sq-ft-Multistorey-Apartment-FOR-Sale-Kukatpally-in-Hyderabad&id=4d423739373535313633",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1274-Sq-ft-Multistorey-Apartment-FOR-Sale-Kukatpally-in-Hyderabad&id=4d423739373535313633",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/02/Photo_h180_w240/79755163_1_-1-_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Kukatpally, NH 9 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.47592722496573",
+        "longitude": "78.39146764971842"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Jaya Krishna Ghanta"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kukatpally",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

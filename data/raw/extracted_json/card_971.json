@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1575-Sq-ft-Multistorey-Apartment-FOR-Sale-Quthbullapur-in-Hyderabad&id=4d423736303336363931",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1575-Sq-ft-Multistorey-Apartment-FOR-Sale-Quthbullapur-in-Hyderabad&id=4d423736303336363931",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Nov/20/Photo_h180_w240/76036691_4_1732119301526-89014_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Quthbullapur, NH 7 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.49832534790039",
+        "longitude": "78.4636459350586"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Mounika"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Quthbullapur",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

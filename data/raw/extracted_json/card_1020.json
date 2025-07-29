@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-2400-Sq-ft-Villa-FOR-Sale-Gundlapochampalli-in-Hyderabad&id=4d423739373733363339",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-2400-Sq-ft-Villa-FOR-Sale-Gundlapochampalli-in-Hyderabad&id=4d423739373733363339",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/May/30/Photo_h180_w240/79773639_4_1748610657125-30185_180_240.jpg",
+    "name": "4 BHK Villa for Sale in Gundlapochampalli Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.57292366027832",
+        "longitude": "78.4734115600586"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Sridhar"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gundlapochampalli",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

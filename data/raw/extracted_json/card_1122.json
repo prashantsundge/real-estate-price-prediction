@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/6-BHK-900-Sq-ft-Residential-House-FOR-Sale-Subash-Nagar-in-Hyderabad&id=4d423731393233393533",
+    "url": "https://www.magicbricks.com/propertyDetails/6-BHK-900-Sq-ft-Residential-House-FOR-Sale-Subash-Nagar-in-Hyderabad&id=4d423731393233393533",
+    "numberOfRooms": "6",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Mar/20/Photo_h180_w240/71923953_3_WhatsApp-Image-2024-03-17-at-3-45-42-AM--2-_180_240.jpeg",
+    "name": "6 BHK  House for Sale in Subash Nagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.51757442",
+        "longitude": "78.46088091"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "chinna"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

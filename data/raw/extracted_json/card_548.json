@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1567-Sq-ft-Multistorey-Apartment-FOR-Sale-Nagole-in-Hyderabad&id=4d423830353839373733",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1567-Sq-ft-Multistorey-Apartment-FOR-Sale-Nagole-in-Hyderabad&id=4d423830353839373733",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/22/Photo_h180_w240/80589773_6_PropertyImage541-8017669056786_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Nagole Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.380110888211",
+        "longitude": "78.566514"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Likhit Kona"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nagole",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-150-Sq-yrd-Residential-House-FOR-Sale-Beeramguda-in-Hyderabad&id=4d423733393834303735",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-150-Sq-yrd-Residential-House-FOR-Sale-Beeramguda-in-Hyderabad&id=4d423733393834303735",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Jul/23/Photo_h180_w240/73984075_1_PropertyImage598-9662107674916_180_240.jpg",
+    "name": "2 BHK  House for Sale in Beeramguda Ramachandrapuram Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5183948207747",
+        "longitude": "78.3016773620898"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "DK Properties hyd"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Beeramguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

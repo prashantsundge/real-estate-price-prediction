@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1050-Sq-ft-Residential-House-FOR-Sale-Gayatri-Nagar-in-Hyderabad&id=4d423734393139313731",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1050-Sq-ft-Residential-House-FOR-Sale-Gayatri-Nagar-in-Hyderabad&id=4d423734393139313731",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Sep/16/Photo_h180_w240/74919171_6_all_180_240.jpeg",
+    "name": "2 BHK  House for Sale in Gayatri Nagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.455615997314453",
+        "longitude": "78.40386962890625"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Jayawardhan"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gayatri Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

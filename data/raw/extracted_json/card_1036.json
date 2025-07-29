@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1710-Sq-ft-Builder-Floor-Apartment-FOR-Sale-Rai-Durg-in-Hyderabad&id=4d423730313735343335",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1710-Sq-ft-Builder-Floor-Apartment-FOR-Sale-Rai-Durg-in-Hyderabad&id=4d423730313735343335",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Nov/25/Photo_h180_w240/70175435_1_4EC3A0D3-8BE6-4A86-90C3-C3C6B902403E_180_240.jpeg",
+    "name": "3 BHK Builder Floor for Sale in Rai Durg Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4210469334674",
+        "longitude": "78.3847371173505"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "yunus"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rai Durg",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

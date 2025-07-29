@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1050-Sq-ft-Residential-House-FOR-Sale-Kakatiya-Nagar-Sainik-Viahar-in-Hyderabad&id=4d423732303030373239",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1050-Sq-ft-Residential-House-FOR-Sale-Kakatiya-Nagar-Sainik-Viahar-in-Hyderabad&id=4d423732303030373239",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Mar/23/Photo_h180_w240/72000729_1_PropertyImage322-9287594990012_180_240.jpg",
+    "name": "2 BHK  House for Sale in Kakatiya Nagar Sainik Viahar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.475006103515625",
+        "longitude": "78.54369354248047"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "aravind maknoor"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kakatiya Nagar Sainik Viahar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

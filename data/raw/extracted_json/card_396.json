@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1620-Sq-ft-Multistorey-Apartment-FOR-Sale-Hyderguda-in-Hyderabad&id=4d423830363037323539",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1620-Sq-ft-Multistorey-Apartment-FOR-Sale-Hyderguda-in-Hyderabad&id=4d423830363037323539",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/23/Photo_h180_w240/80607259_7_hatsAppImage20250722at15.42.151_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Hyderguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3934765",
+        "longitude": "78.4832145"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Suresh Yadav"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hyderguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

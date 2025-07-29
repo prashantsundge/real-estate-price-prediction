@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1400-Sq-ft-Multistorey-Apartment-FOR-Sale-Bandam-Kommu-in-Hyderabad&id=4d423830353639363031",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1400-Sq-ft-Multistorey-Apartment-FOR-Sale-Bandam-Kommu-in-Hyderabad&id=4d423830353639363031",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/21/Photo_h180_w240/80569601_13_hatsAppImage20250715at6.23.08PM1_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Bandam Kommu Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.495596",
+        "longitude": "78.324149"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Aakash Jain "
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bandam Kommu",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

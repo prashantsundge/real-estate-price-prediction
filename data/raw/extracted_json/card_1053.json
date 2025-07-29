@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1740-Sq-ft-Multistorey-Apartment-FOR-Sale-Gowdavalli-in-Hyderabad&id=4d423637343336343433",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1740-Sq-ft-Multistorey-Apartment-FOR-Sale-Gowdavalli-in-Hyderabad&id=4d423637343336343433",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jun/08/Photo_h180_w240/67436443_5__180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Gowdavalli Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.59806664121737",
+        "longitude": "78.46760103068259"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "T Kiran Kumar"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

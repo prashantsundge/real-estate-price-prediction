@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1298-Sq-ft-Multistorey-Apartment-FOR-Sale-Alkapur-Township-in-Hyderabad&id=4d423830363231323631",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1298-Sq-ft-Multistorey-Apartment-FOR-Sale-Alkapur-Township-in-Hyderabad&id=4d423830363231323631",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2024/12/10/Project-Photo-21-Art-of-Living-Hyderabad-5123687_177_337_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in Alkapur Township, Manikonda, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.388851",
+        "longitude": "78.371022"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Shyamala"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Alkapur Township",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

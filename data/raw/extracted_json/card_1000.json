@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1198-Sq-ft-Residential-House-FOR-Sale-Shapur-Nagar-in-Hyderabad&id=4d423739313734383137",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1198-Sq-ft-Residential-House-FOR-Sale-Shapur-Nagar-in-Hyderabad&id=4d423739313734383137",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Apr/29/Photo_h180_w240/79174817_1_PropertyImage77-04330821134364_180_240.jpg",
+    "name": "3 BHK  House for Sale in Shapur Nagar Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5170607338372",
+        "longitude": "78.4437100545133"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Sp Ranganath"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Shapur Nagar",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

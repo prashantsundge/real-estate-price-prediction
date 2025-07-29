@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1600-Sq-ft-Residential-House-FOR-Sale-Machabollaram-in-Hyderabad&id=4d423435363739393039",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1600-Sq-ft-Residential-House-FOR-Sale-Machabollaram-in-Hyderabad&id=4d423435363739393039",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2019/Oct/31/Photo_h180_w240/45679909_12_PropertyImage655-0210621117928_180_240.jpg",
+    "name": "2 BHK  House for Sale in Machabollaram, Medchal Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5158382666158",
+        "longitude": "78.5112942076793"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "susheel"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Machabollaram",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

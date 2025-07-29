@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-1066-Sq-yrd-Residential-House-FOR-Sale-in-Hyderabad&id=4d423736313632353331",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-1066-Sq-yrd-Residential-House-FOR-Sale-in-Hyderabad&id=4d423736313632353331",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Nov/24/Photo_h180_w240/76162531_2_MG20241124WA0144_180_240.jpg",
+    "name": "4 BHK  House for Sale in Hanuman Nagar Boduppal Hyderabad",
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Madhukar Reddy"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

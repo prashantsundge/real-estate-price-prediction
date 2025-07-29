@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2100-Sq-ft-Residential-House-FOR-Sale-Boduppal-in-Hyderabad&id=4d423738393838383537",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2100-Sq-ft-Residential-House-FOR-Sale-Boduppal-in-Hyderabad&id=4d423738393838383537",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/26/Photo_h180_w240/78988857_4_PropertyImage1750952950793_180_240.jpg",
+    "name": "3 BHK  House for Sale in Boduppal, NH 2 2 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.343936920166016",
+        "longitude": "78.3793716430664"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Dinesh"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Boduppal",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

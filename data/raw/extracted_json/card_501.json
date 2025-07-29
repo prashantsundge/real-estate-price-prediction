@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1750-Sq-ft-Multistorey-Apartment-FOR-Sale-Gachibowli-in-Hyderabad&id=4d423638313434373131",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1750-Sq-ft-Multistorey-Apartment-FOR-Sale-Gachibowli-in-Hyderabad&id=4d423638313434373131",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/Project-Photo-5-Aparna-Towers-Hyderabad-5001192_488_1366_310_462.jpg",
+    "name": "3 BHK Apartment for Sale in Gachibowli Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4651851",
+        "longitude": "78.36926"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Jasmine"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gachibowli",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

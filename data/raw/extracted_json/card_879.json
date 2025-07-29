@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1283-Sq-ft-Multistorey-Apartment-FOR-Sale-Nanakram-Guda-in-Hyderabad&id=4d423638313936323031",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1283-Sq-ft-Multistorey-Apartment-FOR-Sale-Nanakram-Guda-in-Hyderabad&id=4d423638313936323031",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2024/04/18/Site-Photos-6-Nanakramguda-Hyderabad-5128901_575_1280_310_462.jpg",
+    "name": "2 BHK Apartment for Sale in Nanakaramguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.412543",
+        "longitude": "78.337875"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Asutosh Karmakar"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nanakram Guda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

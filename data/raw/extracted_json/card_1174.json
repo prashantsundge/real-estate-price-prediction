@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1250-Sq-ft-Residential-House-FOR-Sale-Gayatri-Nagar-Peerzadiguda-in-Hyderabad&id=4d423639373036393731",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1250-Sq-ft-Residential-House-FOR-Sale-Gayatri-Nagar-Peerzadiguda-in-Hyderabad&id=4d423639373036393731",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Feb/07/Photo_h180_w240/69706971_4_PropertyImage1707329570989_180_240.jpg",
+    "name": "3 BHK  House for Sale in Gayatri Nagar Peerzadiguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.397174835205078",
+        "longitude": "78.5966567993164"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "shaiksha vali"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gayatri Nagar Peerzadiguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

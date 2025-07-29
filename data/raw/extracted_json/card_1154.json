@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-150-Sq-yrd-Residential-House-FOR-Sale-Turkayamjal-in-Hyderabad&id=4d423730303838333435",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-150-Sq-yrd-Residential-House-FOR-Sale-Turkayamjal-in-Hyderabad&id=4d423730303838333435",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Nov/19/Photo_h180_w240/70088345_1_PropertyImage245-2090127826564_180_240.jpg",
+    "name": "4 BHK  House for Sale in Turkayamjal Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.2710100400246",
+        "longitude": "78.5819729565636"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "surender reddy"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Turkayamjal",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

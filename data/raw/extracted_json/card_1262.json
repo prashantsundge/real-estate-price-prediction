@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-2000-Sq-ft-Residential-House-FOR-Sale-Medipally-in-Hyderabad&id=4d423732383531323137",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-2000-Sq-ft-Residential-House-FOR-Sale-Medipally-in-Hyderabad&id=4d423732383531323137",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/May/17/Photo_h180_w240/72851217_1_PropertyImage909-6175787087712_180_240.jpg",
+    "name": "2 BHK  House for Sale in Medipally Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4068697055425",
+        "longitude": "78.6001011781133"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Vamshi Krishna"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Medipally",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

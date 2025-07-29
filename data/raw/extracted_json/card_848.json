@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-2000-Sq-ft-Multistorey-Apartment-FOR-Sale-Mothi-Nagar-Borabanda-in-Hyderabad&id=4d423733393632363937",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2000-Sq-ft-Multistorey-Apartment-FOR-Sale-Mothi-Nagar-Borabanda-in-Hyderabad&id=4d423733393632363937",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2024/Jul/22/Photo_h180_w240/73962697_4_hatsAppImage20240625at12.25.29PM_180_240.jpeg",
+    "name": "3 BHK Apartment for Sale in Mothi Nagar Borabanda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4579051",
+        "longitude": "78.4092525"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Syam"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mothi Nagar Borabanda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

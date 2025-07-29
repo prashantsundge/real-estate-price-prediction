@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/2-BHK-1290-Sq-ft-Multistorey-Apartment-FOR-Sale-Gopanapalli-in-Hyderabad&id=4d423830303033353637",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1290-Sq-ft-Multistorey-Apartment-FOR-Sale-Gopanapalli-in-Hyderabad&id=4d423830303033353637",
+    "numberOfRooms": "2",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/14/Photo_h180_w240/80003567_4_PropertyImage18-999814083637602_180_240.jpg",
+    "name": "2 BHK Apartment for Sale in Gopanpalle Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.456287384033203",
+        "longitude": "78.30904388427734"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "sunil"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gopanapalli",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

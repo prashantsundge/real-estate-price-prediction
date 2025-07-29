@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from src.utils.logger import logger
 
 
-def scroll_and_collect_property_cards(url, scroll_limit=5, scroll_pause=2):
+def scroll_and_collect_property_cards(url, scroll_limit=50, scroll_pause=2):
     logger.info("Launching Broswer to scroll MagicBricks...")
 
     # chrome_options = Options()

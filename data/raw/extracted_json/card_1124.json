@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/4-BHK-167-Sq-yrd-Residential-House-FOR-Sale-Dammaiguda-in-Hyderabad&id=4d423637313239373035",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-167-Sq-yrd-Residential-House-FOR-Sale-Dammaiguda-in-Hyderabad&id=4d423637313239373035",
+    "numberOfRooms": "4",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jul/21/Photo_h180_w240/5227_IMG20230510WA0009_180_240.jpeg",
+    "name": "4 BHK  House for Sale in Dammaiguda Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5012465",
+        "longitude": "78.5997209"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "kashetty"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dammaiguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

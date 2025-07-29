@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1715-Sq-ft-Multistorey-Apartment-FOR-Sale-Nacharam-in-Hyderabad&id=4d423739393033333833",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1715-Sq-ft-Multistorey-Apartment-FOR-Sale-Nacharam-in-Hyderabad&id=4d423739393033333833",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jun/30/Photo_h180_w240/79903383_17_PropertyImage1751300007494_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Nacharam Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.4334244",
+        "longitude": "78.5617509"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Vijay Shinde"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nacharam",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

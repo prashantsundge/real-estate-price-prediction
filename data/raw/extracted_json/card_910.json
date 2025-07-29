@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1885-Sq-ft-Multistorey-Apartment-FOR-Sale-Lingampally-Serilingampally-in-Hyderabad&id=4d423739363139343131",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1885-Sq-ft-Multistorey-Apartment-FOR-Sale-Lingampally-Serilingampally-in-Hyderabad&id=4d423739363139343131",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2023/11/10/Site-Photos-10-Olbee-Regent-Park-Hyderabad-5213069_540_720_310_462.jpg",
+    "name": "3 BHK Apartment for Sale in Lingampally Serilingampalle Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.411227",
+        "longitude": "78.351003"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Shanti Dwibhashi"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lingampally Serilingampalle",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

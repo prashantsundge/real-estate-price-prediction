@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1425-Sq-ft-Multistorey-Apartment-FOR-Sale-Narsingi-in-Hyderabad&id=4d423830343839373139",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1425-Sq-ft-Multistorey-Apartment-FOR-Sale-Narsingi-in-Hyderabad&id=4d423830343839373139",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/16/Photo_h180_w240/80489719_20_PropertyImage118-15345385335885_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Narsingi, Outer Ring Road Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3925725445495",
+        "longitude": "78.3271569428647"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Vinith Kumar"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Narsingi",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

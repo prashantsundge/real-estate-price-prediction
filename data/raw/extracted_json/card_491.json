@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1579-Sq-ft-Multistorey-Apartment-FOR-Sale-Ameenpur-Plots-in-Hyderabad&id=4d423830363435303733",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1579-Sq-ft-Multistorey-Apartment-FOR-Sale-Ameenpur-Plots-in-Hyderabad&id=4d423830363435303733",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2025/Jul/25/Photo_h180_w240/80645073_3_MG20241231WA0039_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Ameenpur Plots Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.5327628",
+        "longitude": "78.3392401"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Venkatesh waran"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ameenpur Plots",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

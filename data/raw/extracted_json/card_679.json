@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Apartment",
+    "@id": "https://www.magicbricks.com/propertyDetails/3-BHK-1515-Sq-ft-Multistorey-Apartment-FOR-Sale-Yousufguda-in-Hyderabad&id=4d423635323533303731",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1515-Sq-ft-Multistorey-Apartment-FOR-Sale-Yousufguda-in-Hyderabad&id=4d423635323533303731",
+    "numberOfRooms": "3",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jan/22/Photo_h180_w240/65253071_9_1674371573662-957_180_240.jpg",
+    "name": "3 BHK Apartment for Sale in Yousufguda, NH 9 Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.43506622314453",
+        "longitude": "78.42970275878906"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "Shaik Imran Ali"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Yousufguda",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}

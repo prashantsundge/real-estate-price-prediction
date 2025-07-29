@@ -1,0 +1,26 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SingleFamilyResidence",
+    "@id": "https://www.magicbricks.com/propertyDetails/600-Sq-yrd-Residential-House-FOR-Sale-Kishan-Bagh-in-Hyderabad&id=4d423236343330323839",
+    "url": "https://www.magicbricks.com/propertyDetails/600-Sq-yrd-Residential-House-FOR-Sale-Kishan-Bagh-in-Hyderabad&id=4d423236343330323839",
+    "image": "https://img.staticmb.com/mbphoto/property/cropped_images/2022/Nov/21/Photo_h180_w240/7169004-4dac-4505-a061-b64c35b8c2b0_26430289_180_240.jpg",
+    "name": "  House for Sale in Kishan Bagh Hyderabad",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "17.3494814394004",
+        "longitude": "78.4425955996957"
+    },
+    "potentialAction": {
+        "@type": "BuyAction",
+        "seller": {
+            "@type": "Person",
+            "name": "M A Rohkhan"
+        }
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kishan Bagh",
+        "addressRegion": "Hyderabad",
+        "addressCountry": "IN"
+    }
+}
