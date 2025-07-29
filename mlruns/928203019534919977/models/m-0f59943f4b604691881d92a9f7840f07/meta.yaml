@@ -1,0 +1,10 @@
+artifact_location: file:///E:/ML%20PROJECT%20END%20to%20END/real-estate-price-prediction/mlruns/928203019534919977/models/m-0f59943f4b604691881d92a9f7840f07/artifacts
+creation_timestamp: 1753773148241
+experiment_id: '928203019534919977'
+last_updated_timestamp: 1753773158268
+model_id: m-0f59943f4b604691881d92a9f7840f07
+model_type: null
+name: ensemble_model
+source_run_id: c209a3e74d764d1aa10a77e493b7288c
+status: 2
+status_message: null

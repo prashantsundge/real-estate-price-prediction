@@ -1,0 +1,39 @@
+artifact_path: file:///E:/ML%20PROJECT%20END%20to%20END/real-estate-price-prediction/mlruns/928203019534919977/models/m-31a8c4e89a014d53963edf5d03971c86/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-31a8c4e89a014d53963edf5d03971c86
+model_size_bytes: 8428846
+model_uuid: m-31a8c4e89a014d53963edf5d03971c86
+prompts: null
+run_id: 9d51d4c25f524320a1c5d791c65fda9d
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "Transaction", "required": true}, {"type": "long",
+    "name": "Furnishing", "required": true}, {"type": "double", "name": "Bathroom",
+    "required": true}, {"type": "double", "name": "Price per Sqft", "required": true},
+    {"type": "double", "name": "Total Area", "required": true}, {"type": "long", "name":
+    "Covered_parking", "required": true}, {"type": "long", "name": "Open_parking",
+    "required": true}, {"type": "long", "name": "Possession_Status", "required": true},
+    {"type": "double", "name": "BHK", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-29 07:01:43.131144'

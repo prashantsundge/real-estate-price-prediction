@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/ML%20PROJECT%20END%20to%20END/real-estate-price-prediction/mlruns/928203019534919977/174f51fed099416c9b3f6754d647f21a/artifacts
+end_time: 1753771771340
+entry_point_name: ''
+experiment_id: '928203019534919977'
+lifecycle_stage: active
+run_id: 174f51fed099416c9b3f6754d647f21a
+run_name: rogue-asp-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753771762701
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/ML%20PROJECT%20END%20to%20END/real-estate-price-prediction/mlruns/928203019534919977/9d51d4c25f524320a1c5d791c65fda9d/artifacts
+end_time: 1753772512482
+entry_point_name: ''
+experiment_id: '928203019534919977'
+lifecycle_stage: active
+run_id: 9d51d4c25f524320a1c5d791c65fda9d
+run_name: mercurial-bat-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753772502799
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/ML%20PROJECT%20END%20to%20END/real-estate-price-prediction/mlruns/928203019534919977/db90e0dc6ffd492ca07470ee565e0ddd/artifacts
+end_time: 1753771918410
+entry_point_name: ''
+experiment_id: '928203019534919977'
+lifecycle_stage: active
+run_id: db90e0dc6ffd492ca07470ee565e0ddd
+run_name: awesome-mole-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753771906606
+status: 3
+tags: []
+user_id: ADMIN
