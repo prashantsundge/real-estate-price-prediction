@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/ML%20PROJECT%20END%20to%20END/real-estate-price-prediction/mlruns/432558724651873304/6f3cbc7b44d3467694ccad5a19959b78/artifacts
+end_time: 1753760205444
+entry_point_name: ''
+experiment_id: '432558724651873304'
+lifecycle_stage: active
+run_id: 6f3cbc7b44d3467694ccad5a19959b78
+run_name: youthful-stag-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753760205368
+status: 4
+tags: []
+user_id: ADMIN

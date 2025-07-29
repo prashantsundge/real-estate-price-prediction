@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/ML%20PROJECT%20END%20to%20END/real-estate-price-prediction/mlruns/432558724651873304/deb7d761f2f148cca85472cc052ee6ea/artifacts
+end_time: 1753763329961
+entry_point_name: ''
+experiment_id: '432558724651873304'
+lifecycle_stage: active
+run_id: deb7d761f2f148cca85472cc052ee6ea
+run_name: dazzling-wasp-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753763322644
+status: 3
+tags: []
+user_id: ADMIN

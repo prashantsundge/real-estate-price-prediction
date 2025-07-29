@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/ML%20PROJECT%20END%20to%20END/real-estate-price-prediction/mlruns/432558724651873304/efd1523d2961429da76e4b06a7447093/artifacts
+end_time: 1753759682542
+entry_point_name: ''
+experiment_id: '432558724651873304'
+lifecycle_stage: active
+run_id: efd1523d2961429da76e4b06a7447093
+run_name: loud-worm-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753759670150
+status: 3
+tags: []
+user_id: ADMIN

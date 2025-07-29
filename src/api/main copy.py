@@ -10,17 +10,27 @@ from src.scraping.extract_from_html_cards import parse_all_html_cards
 from src.scraping.extract_from_html_cards import save_to_mysql
 from src.database.data_loader import load_data_from_mysql
 from src.utils.logger import logger
+from src.models.train_model import train_model
+
+from fastapi import FastAPI
+from src.models.schemas import PropertyFeatures
+from src.models.predict_model import predict_price
+
+app = FastAPI(title="Real Estate Price Predictor")
+
 
 def main():
     try:
         logger.info(">>> 🚀 Starting MagicBricks scraping pipeline <<<")
+        
+        
 
-        url = "https://www.magicbricks.com/property-for-sale/residential-commercial-real-estate?proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Residential-House,Villa,Residential-Plot,Commercial-Office-Space,Office-ITPark-SEZ,Commercial-Shop,Commercial-Showroom,Commercial-Land,Industrial-Land,Warehouse/Godown,Industrial-Building,Industrial-Shed&BudgetMin=1-Crores&BudgetMax=1.5-Crores&cityName=Hyderabad"
+    #     url = "https://www.magicbricks.com/property-for-sale/residential-commercial-real-estate?proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Residential-House,Villa,Residential-Plot,Commercial-Office-Space,Office-ITPark-SEZ,Commercial-Shop,Commercial-Showroom,Commercial-Land,Industrial-Land,Warehouse/Godown,Industrial-Building,Industrial-Shed&BudgetMin=1-Crores&BudgetMax=1.5-Crores&cityName=Hyderabad"
 
-       #path to raw json files
-        RAW_JSON_DIR = "data/raw/extracted_json"
+    #    #path to raw json files
+    #     RAW_JSON_DIR = "data/raw/extracted_json"
 
-        cleand_df = pd.read_csv(r"data/processed/html_data.csv")
+    #     cleand_df = pd.read_csv(r"data/processed/html_data.csv")
 
     #    #step 1 Scroll and extract raw HTML cards
     #     card_elements = scroll_and_collect_property_cards(url)
@@ -49,10 +59,17 @@ def main():
         # load_df = load_data_from_mysql("properties")
         # logger.info(">>> DATA LOADING FROM SQL TABLE TO DATAFRAME COMPLETED <<<") 
         # print(load_df.info())
-
+        # logger.info("MODEL TRAINING STARTED...")
+        # train_model()
+        # logger.info("MODEL TRAINING COMPLETED...")
+        
+      
+                
         logger.info("PIPELINE COMPLETED SUCCESSFULLY !.")
     except Exception as e:
         logger.exception("Pipeline failed due to an error. ")
+
+     
 
 
 if __name__ =="__main__":

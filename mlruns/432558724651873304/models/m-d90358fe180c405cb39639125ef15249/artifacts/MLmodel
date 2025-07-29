@@ -1,0 +1,22 @@
+artifact_path: file:///E:/ML%20PROJECT%20END%20to%20END/real-estate-price-prediction/mlruns/432558724651873304/models/m-d90358fe180c405cb39639125ef15249/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.1.4
+model_id: m-d90358fe180c405cb39639125ef15249
+model_size_bytes: 777
+model_uuid: m-d90358fe180c405cb39639125ef15249
+prompts: null
+run_id: efd1523d2961429da76e4b06a7447093
+utc_time_created: '2025-07-29 03:27:50.410724'
