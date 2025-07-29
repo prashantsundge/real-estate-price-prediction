@@ -13,7 +13,7 @@ furnishing_encoder = joblib.load("artifacts/encoders/furnishing_encoder.pkl")
 possession_encoder = joblib.load("artifacts/encoders/possession_status_encoder.pkl")
 
 # Title
-st.title("🏠 Real Estate Price Predictor")
+st.title("Real Estate Price Predictor")
 
 # Input fields
 transaction = st.selectbox("Transaction", transaction_encoder.classes_)
@@ -56,4 +56,4 @@ if st.button("Predict Price"):
     prediction = model.predict(input_data)[0]
 
     # Show prediction
-    st.success(f"🏷️ Predicted Price: ₹ {prediction:,.0f}")
+    st.success(f"Predicted Price: ₹ {prediction:,.0f}")
